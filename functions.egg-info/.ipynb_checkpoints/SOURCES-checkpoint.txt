@@ -1,0 +1,8 @@
+setup.py
+functions/__init__.py
+functions/conv_input_Gauss_function.py
+functions.egg-info/PKG-INFO
+functions.egg-info/SOURCES.txt
+functions.egg-info/dependency_links.txt
+functions.egg-info/requires.txt
+functions.egg-info/top_level.txt

@@ -1,0 +1,21 @@
+sub name,sub smiles
+Methyl,*C
+Ethyl,*CC
+Cyclohexyl,*C1CCCCC1
+Ethene,*C=C
+Ethyne,*C#C
+Phenyl,*C1=CC=CC=C1
+Hydroxyl,*O
+Amine,*N
+diethylamine,*N(CC)CC
+acetyl,*C(C)=O
+Carboxyl,*C(=O)O
+ -COOMe,*C(=O)OC
+Fluorine,*F
+Chlorine,*Cl
+Amide,*C(N)=O
+Nitrile,*C#N
+Nitro,*[N+](=O)[O-]
+Sulfonyl,*S(=O)(=O)O
+Methoxy,*OC
+Trifluoromethyl,*C(F)(F)F
