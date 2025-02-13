@@ -6,12 +6,11 @@
 
 import numpy as np
 import pandas as pd
-
 import sklearn
 from rdkit import Chem
-
 import xgboost as xgboost
 import catboost as catboost
+import lightgbm as lightgbm
 from sklearn import ensemble
 from sklearn import metrics
 from sklearn.model_selection import train_test_split
@@ -22,7 +21,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.preprocessing import StandardScaler
 from bayes_opt import BayesianOptimization
 from rdkit.Chem import AllChem
-
+import pickle
 from skopt import gp_minimize
 from skopt.space import Real, Integer
 from skopt.utils import use_named_args
@@ -30,6 +29,8 @@ from skopt.utils import use_named_args
 
 # In[2]:
 
+
+#6개 feature들에 대한 원-핫 인코딩
 
 def atom_symbol_HNums(atom):
     
@@ -86,14 +87,14 @@ def Gaussian_Adj(mol, conv_range, sigma, BO):
 def _convertToAdj_Gauss(smiles_list, conv_range, sigma, BO):
     adj = [Gaussian_Adj(Chem.MolFromSmiles(i), conv_range, sigma, BO) for i in smiles_list]
 
-    max_atom_nums = np.max([i_adj.shape[0] for i_adj in adj]) 
+    max_atom_nums = np.max([i_adj.shape[0] for i_adj in adj]) #만든 adj중 가장 큰 분자(정사각 행렬이므로 shape[0](행)으로 도출가능 )
 
-    adj = np.concatenate([np.pad(i_adj,((0,max_atom_nums-i_adj.shape[0]),
+    adj = np.concatenate([np.pad(i_adj,((0,max_atom_nums-i_adj.shape[0]),#-->(상,하),(좌,우)중아래쪽이랑 오른쪽만 패딩(constnat value 로 패딩)
                                         (0,max_atom_nums-i_adj.shape[0])),
                                  'constant',
                                  constant_values=0).reshape(1,
                                                             max_atom_nums,
-                                                            max_atom_nums) for i_adj in adj],
+                                                            max_atom_nums) for i_adj in adj],#-->맨 앞 차원 추가(이 축 기준으로 concat 하려고) 
                          axis=0)
 
     return adj, max_atom_nums
@@ -101,18 +102,21 @@ def _convertToAdj_Gauss(smiles_list, conv_range, sigma, BO):
 def _convertToAdj_sigma0(smiles_list):
     adj = [np.eye(len(Chem.MolFromSmiles(i).GetAtoms())) for i in smiles_list]
 
-    max_atom_nums = np.max([i_adj.shape[0] for i_adj in adj]) 
+    max_atom_nums = np.max([i_adj.shape[0] for i_adj in adj]) #만든 adj중 가장 큰 분자(정사각 행렬이므로 shape[0](행)으로 도출가능 )
 
-    adj = np.concatenate([np.pad(i_adj,((0,max_atom_nums-i_adj.shape[0]),
+    adj = np.concatenate([np.pad(i_adj,((0,max_atom_nums-i_adj.shape[0]),#-->(상,하),(좌,우)중아래쪽이랑 오른쪽만 패딩(constnat value 로 패딩)
                                         (0,max_atom_nums-i_adj.shape[0])),
                                  'constant',
                                  constant_values=0).reshape(1,
                                                             max_atom_nums,
-                                                            max_atom_nums) for i_adj in adj], 
+                                                            max_atom_nums) for i_adj in adj],#-->맨 앞 차원 추가(이 축 기준으로 concat 하려고) 
                          axis=0)
 
     return adj, max_atom_nums
 
+
+#feature matrix 만들고(각 smiles별로 6개 함수로 feature추출해서 concat하고 그것들을 concat)
+#각 feature matrix를 패딩해서(정사각 아님) axis=0방향으로 concat
 
 def _convertToFeatures(smiles_list,max_atom_nums):
     features = [np.concatenate([np.concatenate([atom_symbol_HNums(atom),
@@ -126,11 +130,11 @@ def _convertToFeatures(smiles_list,max_atom_nums):
                 if i !='gas' else np.zeros([2,45]) for i in smiles_list]
 
     features = np.concatenate([np.pad(i_features,
-                                      ((0,max_atom_nums-i_features.shape[0]),
+                                      ((0,max_atom_nums-i_features.shape[0]),#-->(상,하),(좌,우)중아래쪽만 패딩(constnat value 로 패딩)
                                        (0,0)),
                                       'constant',
                                       constant_values=0).reshape(1,
-                                                                 max_atom_nums,
+                                                                 max_atom_nums,#-->맨 앞 차원 추가(이 축으로 concat)하고 행만 max stom에 맞춤
                                                                  -1)\
                                for i_features in features],axis=0)
 
@@ -231,7 +235,7 @@ def one_touch_representation_Gauss(data, conv_range, sigma, BO):
 
     # data : cuma_branch_sol_abs or cuma_branch_sol_emi
 
-    if 2 * sigma**2 <= np.finfo(np.float64).eps :
+    if 2 * sigma**2 <= np.finfo(np.float64).eps : # float64 type 에서 너무 작아서 0으로 간주되기 시작하는 수 
         new_feature, new_adj = _make_matrix_sigma0(data['Chromophore_smiles'])
     else :
         new_feature, new_adj = _make_matrix(data['Chromophore_smiles'], conv_range, sigma, BO)
@@ -249,7 +253,7 @@ def one_touch_representation_Gauss(data, conv_range, sigma, BO):
 
     
     # solvent
-    if 2 * sigma**2 <= np.finfo(np.float64).eps :
+    if 2 * sigma**2 <= np.finfo(np.float64).eps : # float64 type 에서 너무 작아서 0으로 간주되기 시작하는 수 
         sol_feature, sol_adj = _make_matrix_sigma0(data['Solvent_smiles'] )
     else:
         sol_feature, sol_adj = _make_matrix(data['Solvent_smiles'], conv_range, sigma, BO)
@@ -263,220 +267,6 @@ def one_touch_representation_Gauss(data, conv_range, sigma, BO):
 
     X_conv_branch_final = np.hstack(( sol_conv,X_conv_branch))
     return X_conv_branch_final
-    
-
-def predict_chunky(input, chunk_size, model):
-    
-    # 데이터 사이즈와 분할 크기 설정
-    data_size = input.shape[0]
-    
-    prediction = []
-    
-    for start in range(0, data_size, chunk_size):
-        end = min(start + chunk_size, data_size)  # 마지막 청크가 너무 클 경우를 대비
-        part = input[start:end, :]
-        predict = model.predict(part)
-        prediction.append(predict)
-    
-    
-    prediction = np.concatenate(prediction, axis=0)
-    return prediction
-
-
-
-# In[ ]:
-
-
-def xgb_bayesian_Gauss_sigma(data, emi_or_abs, test_ratio, log_file, BO, init_points=1000, n_iter = 500):
-    #data = cuma_branch_sol_emi or cuma_branch_sol_abs
-
-    label= np.array(data[emi_or_abs]).flatten()
-    scaler=StandardScaler()
-    scaler.fit(label.reshape(-1,1))
-    
-    def custom_scoring(target, pred):
-        mae= metrics.mean_absolute_error(scaler.inverse_transform(target.reshape(-1,1)), scaler.inverse_transform(pred.reshape(-1,1)))
-        return mae
-
-    count=0
-    best_mae = float('inf')
-    kfold = KFold(n_splits=5, shuffle = True, random_state=0)
-  
-    def xgb_target(c_range, sigma_ratio, a,b,c,d):
-
-        nonlocal count, best_mae
-
-        input_final = one_touch_representation_Gauss(data, int(c_range),  int(c_range)*(sigma_ratio/10), BO)
-
-        x_train_val, x_test, y_train_val, y_test = train_test_split(input_final, label, test_size=test_ratio, shuffle=True, random_state=42) 
-        scaled_y_train_val = scaler.transform(y_train_val.reshape(-1,1))
-
-        
-        xgb = xgboost.XGBRegressor(n_estimators = int(a), learning_rate=b, subsample = c, max_depth = int(d))
-        scores = cross_val_score(xgb , 
-                        x_train_val , 
-                        scaled_y_train_val ,
-                        cv=kfold,
-                        scoring=make_scorer(custom_scoring)
-                        )
-
-        xgb_mae = np.mean(scores)
-
-        count += 1
-    
-        if count%10 ==0:
-            print(f'iter :{count}')
-            with open(log_file, 'a') as f:
-                f.write(f'iter : {count}\n')
-            
-        if xgb_mae < best_mae:
-            best_mae = xgb_mae
-            current_opt(xgb_mae, [c_range, sigma_ratio, a,b,c,d], count)
-        
-        return -xgb_mae
-
-    def current_opt(best_mae, best_params, count):
-        with open(log_file, 'a') as f:
-            f.write(f'iter : {count} , mae: {best_mae} param: {best_params}\n')
-    
-    bay_op = BayesianOptimization(xgb_target, {'c_range' : (1, 13) ,'sigma_ratio' : (0, 10),'a': (10, 100), 'b' : (0, 0.2), 'c': (0.5, 1), 'd' : (5, 10)}, 
-                                       random_state=0, allow_duplicate_points=True)
-    
-    result= bay_op.maximize(init_points, n_iter)
-    best = -bay_op.max['target']
-    print("Best MAE:", best)
-    print("Best parameters:", bay_op.max['params'])
-    return best
-
-
-# In[1]:
-
-
-def rnd_bayesian_Gauss_sigma(data, emi_or_abs, test_ratio, log_file, BO, init_points=1000, n_iter = 500):
-    #data = cuma_branch_sol_emi or cuma_branch_sol_abs
-
-    label= np.array(data[emi_or_abs]).flatten()
-    scaler=StandardScaler()
-    scaler.fit(label.reshape(-1,1))
-    
-    def custom_scoring(target, pred):
-        mae= metrics.mean_absolute_error(scaler.inverse_transform(target.reshape(-1,1)), scaler.inverse_transform(pred.reshape(-1,1)))
-        return mae
-
-    count=0
-    best_mae = float('inf')
-    kfold = KFold(n_splits=5, shuffle = True, random_state=0)
-  
-    def rnd_target(c_range, sigma_ratio, a,b):
-
-        nonlocal count, best_mae
-
-        input_final = one_touch_representation_Gauss(data, int(c_range),  int(c_range)*(sigma_ratio/10), BO)
-
-        x_train_val, x_test, y_train_val, y_test = train_test_split(input_final, label, test_size=test_ratio, shuffle=True, random_state=42) 
-        scaled_y_train_val = scaler.transform(y_train_val.reshape(-1,1)).flatten()
-
-        
-        rnd=ensemble.RandomForestRegressor(n_estimators = int(a), max_depth= int(b))
-        scores = cross_val_score(rnd , 
-                        x_train_val , 
-                        scaled_y_train_val ,
-                        cv=kfold,
-                        scoring=make_scorer(custom_scoring)
-                        )
-
-        rnd_mae = np.mean(scores)
-
-        count += 1
-    
-        if count%10 ==0:
-            print(f'iter :{count}')
-            with open(log_file, 'a') as f:
-                f.write(f'iter : {count}\n')
-            
-        if rnd_mae < best_mae:
-            best_mae = rnd_mae
-            current_opt(rnd_mae, [c_range, sigma_ratio, a,b], count)
-        
-        return -rnd_mae
-
-    def current_opt(best_mae, best_params, count):
-        with open(log_file, 'a') as f:
-            f.write(f'iter : {count} , mae: {best_mae} param: {best_params}\n')
-    
-    bay_op = BayesianOptimization(rnd_target, {'c_range' : (1, 13) ,'sigma_ratio' : (0, 10),'a': (10, 100), 'b' : (1, 200)}, 
-                                       random_state=0, allow_duplicate_points=True)
-    
-    result= bay_op.maximize(init_points, n_iter)
-    best = -bay_op.max['target']
-    print("Best MAE:", best)
-    print("Best parameters:", bay_op.max['params'])
-    return best
-
-
-# In[ ]:
-
-
-def cat_bayesian_Gauss_sigma(data, emi_or_abs, test_ratio, log_file, BO, init_points=1000, n_iter = 500):
-    #data = cuma_branch_sol_emi or cuma_branch_sol_abs
-
-    label= np.array(data[emi_or_abs]).flatten()
-    scaler=StandardScaler()
-    scaler.fit(label.reshape(-1,1))
-    
-    def custom_scoring(target, pred):
-        mae= metrics.mean_absolute_error(scaler.inverse_transform(target.reshape(-1,1)), scaler.inverse_transform(pred.reshape(-1,1)))
-        return mae
-
-    count=0
-    best_mae = float('inf')
-    kfold = KFold(n_splits=5, shuffle = True, random_state=0)
-  
-    def cat_target(c_range, sigma_ratio):
-
-        nonlocal count, best_mae
-
-        input_final = one_touch_representation_Gauss(data, int(c_range),  int(c_range)*(sigma_ratio/10), BO)
-
-        x_train_val, x_test, y_train_val, y_test = train_test_split(input_final, label, test_size=test_ratio, shuffle=True, random_state=42) 
-        scaled_y_train_val = scaler.transform(y_train_val.reshape(-1,1))
-
-        
-        cat = catboost.CatBoostRegressor(silent = True)
-        scores = cross_val_score(cat , 
-                        x_train_val , 
-                        scaled_y_train_val ,
-                        cv=kfold,
-                        scoring=make_scorer(custom_scoring)
-                        )
-
-        cat_mae = np.mean(scores)
-
-        count += 1
-    
-        if count%10 ==0:
-            print(f'iter :{count}')
-            with open(log_file, 'a') as f:
-                f.write(f'iter : {count}\n')
-            
-        if cat_mae < best_mae:
-            best_mae = cat_mae
-            current_opt(cat_mae, [c_range, sigma_ratio], count)
-        
-        return -cat_mae
-
-    def current_opt(best_mae, best_params, count):
-        with open(log_file, 'a') as f:
-            f.write(f'iter : {count} , mae: {best_mae} param: {best_params}\n')
-    
-    bay_op = BayesianOptimization(cat_target, {'c_range' : (1, 13) ,'sigma_ratio' : (0, 10)}, 
-                                       random_state=0, allow_duplicate_points=True)
-    
-    result= bay_op.maximize(init_points, n_iter)
-    best = -bay_op.max['target']
-    print("Best MAE:", best)
-    print("Best parameters:", bay_op.max['params'])
-    return best
 
 
 # In[11]:
@@ -588,6 +378,37 @@ class bayesian_with_data_cv_mol_test():
             print(f'Current Best MAE : {self.best_mae} | Current Best Parameters : {[c_range, sigma_ratio, a, b, c]}')
         
         return -cat_mae
+
+
+    def try_param_light(self, c_range, sigma_ratio, a, b, c):
+
+        input_final = one_touch_representation_Gauss(self.cv_set, int(c_range),  int(c_range)*(sigma_ratio/10), self.BO)
+        
+        light = lightgbm.LGBMRegressor(verbose=-1, num_leaves= int(a), learning_rate = b, max_depth=int(c))
+        scores = cross_val_score(light , 
+                        input_final , 
+                        self.scaled_cv_label.flatten() ,
+                        cv=self.kfold,
+                        scoring=make_scorer(self.custom_scoring)
+                        )
+
+        light_mae = np.mean(scores)
+
+        self.count += 1
+    
+        if self.count%10 ==0:
+            print(f'iter :{self.count}')
+            with open(self.log_file, 'a') as f:
+                f.write(f'iter : {self.count}\n')
+            
+        if light_mae < self.best_mae:
+            self.best_mae = light_mae
+            with open(self.log_file, 'a') as f:
+                f.write(f'iter : {self.count} , mae: {self.best_mae} param: {[c_range, sigma_ratio, a, b, c]}\n')
+            print(f'Current Best MAE : {self.best_mae} | Current Best Parameters : {[c_range, sigma_ratio, a, b, c]}')
+        
+        return -light_mae
+    
     
     def try_param_rnd(self, c_range, sigma_ratio, a,b):
 
@@ -624,17 +445,21 @@ class bayesian_with_data_cv_mol_test():
         if self.model == 'xgb':
             bay_op = BayesianOptimization(self.try_param_xgb, {'c_range' : (1,13) ,'sigma_ratio' : (0, 10),'a': (10, 100), 'b' : (0, 0.2), 'c': (0.5, 1), 'd' : (5, 10)}, 
                                           random_state=0, allow_duplicate_points=True)
+
         elif self.model == 'cat':
-            bay_op = BayesianOptimization(self.try_param_cat, {'c_range' : (1,13) ,'sigma_ratio' : (0, 10), 'a': (0, 0.2), 'b': (4,10), 'c': (1, 10)},
-                                                               random_state=0, allow_duplicate_points=True)
+            bay_op = BayesianOptimization(self.try_param_cat, {'c_range' : (1,13) ,'sigma_ratio' : (0, 10), 'a': (0.05, 0.2), 'b': (4,6), 'c': (5, 20)},
+                                          random_state=0, allow_duplicate_points=True)
+
+        elif self.model == 'light':
+            bay_op = BayesianOptimization(self.try_param_light, {'c_range' : (1,13) ,'sigma_ratio' : (0, 10), 'a': (10, 100), 'b': (0.01, 0.2), 'c': (3, 15)},
+                                          random_state=0, allow_duplicate_points=True)
+        
         elif self.model == 'rnd':
             bay_op = BayesianOptimization(self.try_param_rnd, {'c_range' : (1,13) ,'sigma_ratio' : (0, 10),'a': (10, 100), 'b' : (1, 200)}, 
                                           random_state=0, allow_duplicate_points=True)
     
-        if self.model =='cat':
-            result = bay_op.maximize(500,200)
-        else:
-            result= bay_op.maximize(self.init_points, self.n_iter)
+
+        result= bay_op.maximize(self.init_points, self.n_iter)
         best = -bay_op.max['target']
         print("Best MAE:", best)
         print("Best parameters:", bay_op.max['params'])

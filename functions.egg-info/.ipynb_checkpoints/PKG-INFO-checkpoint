@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: functions
-Version: 0.1
-Requires-Dist: scikit-learn==1.4.1.post1
-Requires-Dist: xgboost==2.0.3
-Requires-Dist: catboost==1.2.7
-Requires-Dist: bayesian-optimization

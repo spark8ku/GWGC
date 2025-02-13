@@ -13,10 +13,8 @@ setup(
     install_requires=[
         "scikit-learn==1.4.1.post1", 
         "xgboost==2.0.3", 
-        "catboost==1.2.7",
-        "lightgbm==4.5.0",
+        "catboost==1.2.7",          
         "bayesian-optimization"
     ],
-    python_requires=">=3.8",
 )
 
