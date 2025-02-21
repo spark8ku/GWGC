@@ -1,0 +1,866 @@
+Chromophore_smiles,Solvent_smiles,Chromophore_name,Solvent_name,Abs,FWHM_Abs,log_extinc,Emi,FWHM_Emi,PLQY,lifetime,HOMO,HOMO_Method,LUMO,LUMO_Method,Optical_bandgap,glob_0,glob_1,glob_2,glob_3,1,2,glob_6,3,4,5,6,location combo,subgroup number
+N#Cc1cc2ccc(O)cc2oc1=O,O,Coumarin 183,water,355.0,,,410.0,,,2.8042624789680315,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,C1CCOC1,Coumarin 183,THF,371.9961312402351,,,443.0071324148319,,,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,C1CCOC1,coumarins and iminocoumarins 4b,THF,355.0,,4.296028636106723,405.0,3278.2749973936297,0.00102,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,C1CCOC1,Coumarin 183,THF,371.9961312402351,,,443.0071324148319,,,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,C1CCOC1,coumarins and iminocoumarins 4b,THF,355.0,,4.296028636106723,405.0,3278.2749973936297,0.00102,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CC#N,Coumarin 183,acetonitrile,377.0028275212064,,,471.0093730865244,,,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CC#N,coumarins and iminocoumarins 4b,acetonitrile,352.0,,4.700755621750213,402.0,,0.00059,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CC#N,Coumarin 183,acetonitrile,377.0028275212064,,,471.0093730865244,,,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CC#N,coumarins and iminocoumarins 4b,acetonitrile,352.0,,4.700755621750213,402.0,,0.00059,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CS(C)=O,Coumarin 183,dimethyl sulfoxide,372.9951510630362,,,448.0086017651539,,,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CS(C)=O,coumarins and iminocoumarins 4b,dimethyl sulfoxide,351.0,,4.767638147621919,401.0,3809.444433828005,0.00123,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CS(C)=O,Coumarin 183,dimethyl sulfoxide,372.9951510630362,,,448.0086017651539,,,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CS(C)=O,coumarins and iminocoumarins 4b,dimethyl sulfoxide,351.0,,4.767638147621919,401.0,3809.444433828005,0.00123,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,CCOC(C)=O,coumarins and iminocoumarins 4b,Ethyl acetate,356.0,,4.515410172292158,406.0,3352.643589844589,0.0596999999999999,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,ClC(Cl)Cl,coumarins and iminocoumarins 4b,chloroform,359.0,,4.158573556172255,408.0,4100.0398124270105,0.0509,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc(O)cc2oc1=O,C1CCCCC1,coumarins and iminocoumarins 4b,Cyclohexane,361.0,,4.483373306089027,411.0,3389.100741330294,0.0105,,,,,,,,,,,*C#N,,,,,*O,,"[1, 5]",2
+N#Cc1cc2ccc([O-])cc2oc1=O,O,C183 anion,water,408.0,,,450.0,2128.3151292270886,,3.9619651347068143,,,,,,,,,,*C#N,,,,,*[O-],,"[1, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,aminocoumarin 1,Cyclohexane,350.0,,,395.0,,,2.8,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,Coumarin 460,Cyclohexane,368.5,3905.370898063302,,426.0,3036.6319485834865,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,C1,Cyclohexane,367.0,3630.93,,393.0,3365.36,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,aminocoumarin 1,Cyclohexane,350.0,,,395.0,,,2.8,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,Coumarin 460,Cyclohexane,368.5,3905.370898063302,,426.0,3036.6319485834865,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,C1,Cyclohexane,367.0,3630.93,,393.0,3365.36,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,aminocoumarin 1,Cyclohexane,350.0,,,395.0,,,2.8,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,Coumarin 460,Cyclohexane,368.5,3905.370898063302,,426.0,3036.6319485834865,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,C1CCCCC1,C1,Cyclohexane,367.0,3630.93,,393.0,3365.36,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCOC(C)=O,aminocoumarin 1,Ethyl acetate,361.0,,,416.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCOC(C)=O,C1,ethyl acetate,365.0,,,,,0.99,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCOC(C)=O,aminocoumarin 1,Ethyl acetate,361.0,,,416.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCOC(C)=O,C1,ethyl acetate,365.0,,,,,0.99,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CC#N,aminocoumarin 1,acetonitrile,367.0,,,430.0,,,3.4,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CC#N,1,acetonitrile,371.0,3888.7495603833486,4.3600250891893975,434.0,2885.3132164752133,0.73,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CC#N,aminocoumarin 1,acetonitrile,367.0,,,430.0,,,3.4,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CC#N,1,acetonitrile,371.0,3888.7495603833486,4.3600250891893975,434.0,2885.3132164752133,0.73,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,aminocoumarin 1,Ethanol,373.0,,,451.0,,,3.1,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,435.0,,,,,,2.04,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 1,Ethanol,376.0,,,454.0,,0.41,3.15,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,Coumarin 460,Ethanol,372.0,3982.471154511863,,449.0,3038.6031225975457,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,C1,Ethanol,373.5,3923.9,,449.5,3110.72,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,8,ethanol,374.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCO,coumarin1,ethanol,373.0,,,448.0,,0.54,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,OCC(O)CO,aminocoumarin 1,glycerol,384.0,,,463.0,,,3.8,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCCCCCCO,Coumarin 1,n-octanol,373.0,,,443.0,,0.68,3.69,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCCCCO,Coumarin 1,n-hexanol,373.0,,,444.0,,0.66,3.68,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCCO,Coumarin 1,n-butanol,374.0,,,447.0,,0.61,3.55,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCCO,Coumarin 460,n-butanol,374.0,3934.358170562962,,446.0,3060.7629148659144,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCCO,Coumarin 1,n-butanol,374.0,,,447.0,,0.61,3.55,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCCO,Coumarin 460,n-butanol,374.0,3934.358170562962,,446.0,3060.7629148659144,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CCCO,Coumarin 1,n-propanol,376.0,,,452.0,,0.62,3.48,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CO,Coumarin 1,methanol,381.0,,,462.0,,0.26,1.94,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CO,Coumarin 460,methanol,373.0,3952.539499856743,,453.0,2839.580229499119,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CO,Coumarin 1,methanol,381.0,,,462.0,,0.26,1.94,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,CO,Coumarin 460,methanol,373.0,3952.539499856743,,453.0,2839.580229499119,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 1,water,385.0,,,470.0,,0.041,0.36,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,14,water,383.0,4210.977934973467,4.3979400086720375,472.0,2749.7274441296213,0.06,0.6,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 460,water,381.1,4360.67809256287,,475.0,3250.8150769076783,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,911,water,382.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,coumarin1,water,380.0,,,468.0,,0.04,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 1,water,385.0,,,470.0,,0.041,0.36,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,14,water,383.0,4210.977934973467,4.3979400086720375,472.0,2749.7274441296213,0.06,0.6,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 460,water,381.1,4360.67809256287,,475.0,3250.8150769076783,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,911,water,382.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,coumarin1,water,380.0,,,468.0,,0.04,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 1,water,385.0,,,470.0,,0.041,0.36,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,14,water,383.0,4210.977934973467,4.3979400086720375,472.0,2749.7274441296213,0.06,0.6,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 460,water,381.1,4360.67809256287,,475.0,3250.8150769076783,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,911,water,382.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,coumarin1,water,380.0,,,468.0,,0.04,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 1,water,385.0,,,470.0,,0.041,0.36,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,14,water,383.0,4210.977934973467,4.3979400086720375,472.0,2749.7274441296213,0.06,0.6,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 460,water,381.1,4360.67809256287,,475.0,3250.8150769076783,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,911,water,382.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,coumarin1,water,380.0,,,468.0,,0.04,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 1,water,385.0,,,470.0,,0.041,0.36,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,14,water,383.0,4210.977934973467,4.3979400086720375,472.0,2749.7274441296213,0.06,0.6,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,Coumarin 460,water,381.1,4360.67809256287,,475.0,3250.8150769076783,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,911,water,382.0,,,,,,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C)cc(=O)oc2c1,O,coumarin1,water,380.0,,,468.0,,0.04,,,,,,,,,,,,*C,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,aminocoumarin 2,Cyclohexane,376.0,,,433.0,,,4.1,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C481,cyclohexane,377.0,,,433.0,,1.0,3.69,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,aminocoumarin 2,Cyclohexane,376.0,,,433.0,,,4.1,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C481,cyclohexane,377.0,,,433.0,,1.0,3.69,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCOC(C)=O,aminocoumarin 2,Ethyl acetate,392.0,,,479.0,,,4.6,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCOC(C)=O,C481,ethyl acetate,388.0,,,480.0,,0.69,3.9,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCOC(C)=O,aminocoumarin 2,Ethyl acetate,392.0,,,479.0,,,4.6,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCOC(C)=O,C481,ethyl acetate,388.0,,,480.0,,0.69,3.9,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 2,acetonitrile,396.0,,,501.0,,,0.6,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,c481,ACN,,,,450.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C481,acetonitrile,399.0,,,504.0,,0.08,0.66,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C35,MeCN,399.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 2,acetonitrile,396.0,,,501.0,,,0.6,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,c481,ACN,,,,450.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C481,acetonitrile,399.0,,,504.0,,0.08,0.66,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C35,MeCN,399.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 2,acetonitrile,396.0,,,501.0,,,0.6,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,c481,ACN,,,,450.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C481,acetonitrile,399.0,,,504.0,,0.08,0.66,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C35,MeCN,399.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 2,acetonitrile,396.0,,,501.0,,,0.6,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,c481,ACN,,,,450.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C481,acetonitrile,399.0,,,504.0,,0.08,0.66,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C35,MeCN,399.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,aminocoumarin 2,Ethanol,400.0,,,509.0,,,0.85,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,c481,EtOH,,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,23,ethanol,405.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C481,ethanol,405.0,,,508.0,,0.08,0.71,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C35,EtOH,402.0,,,516.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,aminocoumarin 2,Ethanol,400.0,,,509.0,,,0.85,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,c481,EtOH,,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,23,ethanol,405.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C481,ethanol,405.0,,,508.0,,0.08,0.71,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C35,EtOH,402.0,,,516.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,aminocoumarin 2,Ethanol,400.0,,,509.0,,,0.85,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,c481,EtOH,,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,23,ethanol,405.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C481,ethanol,405.0,,,508.0,,0.08,0.71,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C35,EtOH,402.0,,,516.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,aminocoumarin 2,Ethanol,400.0,,,509.0,,,0.85,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,c481,EtOH,,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,23,ethanol,405.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C481,ethanol,405.0,,,508.0,,0.08,0.71,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C35,EtOH,402.0,,,516.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,aminocoumarin 2,Ethanol,400.0,,,509.0,,,0.85,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,c481,EtOH,,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,23,ethanol,405.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C481,ethanol,405.0,,,508.0,,0.08,0.71,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C35,EtOH,402.0,,,516.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+CCN(CC)c1ccc2c(C(F)(F)F)cc(=O)oc2c1,OCC(O)CO,aminocoumarin 2,glycerol,413.0,,,524.0,,,2.7,,,,,,,,,,,*C(F)(F)F,,,,*N(CC)CC,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,aminocoumarin 6,acetonitrile,365.0,,,465.0,,,5.2,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 151,acetonitrile,367.0,4595.732447161459,,461.0,3103.4881460489123,0.57,5.13,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,acetonitrile,367.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C151,MeCN,366.0,,,464.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,Coumarin 151,hexane,347.0,4361.726480610319,,401.0,3892.1786206238,0.19,0.8542000000000001,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C151,hexane,347.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C151,hexane,348.0,,,402.0,,0.19,1.1,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,Coumarin 151,hexane,347.0,4361.726480610319,,401.0,3892.1786206238,0.19,0.8542000000000001,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C151,hexane,347.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C151,hexane,348.0,,,402.0,,0.19,1.1,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,Coumarin 151,hexane,347.0,4361.726480610319,,401.0,3892.1786206238,0.19,0.8542000000000001,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C151,hexane,347.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C151,hexane,348.0,,,402.0,,0.19,1.1,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCC(C)C,Coumarin 151,2-methylpentane,347.0,,,399.0,,0.17,0.4054999999999999,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCC(C)CC,Coumarin 151,3-Methylpentane,347.0,,,400.0,,0.18,0.8424,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 151,Cyclohexane,348.0,,,401.0,,0.28,1.1980000000000002,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C151,cyclohexane,348.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C151,cyclohaxane,348.0,,,410.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 151,Cyclohexane,348.0,,,401.0,,0.28,1.1980000000000002,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C151,cyclohexane,348.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C151,cyclohaxane,348.0,,,410.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 151,Cyclohexane,348.0,,,401.0,,0.28,1.1980000000000002,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C151,cyclohexane,348.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,C151,cyclohaxane,348.0,,,410.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC1CCCCC1,Coumarin 151,Toluene,348.0,,,401.0,,0.29,1.22,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCC2CCCCC2C1,Coumarin 151,decalin,349.0,,,404.0,,0.32,1.899,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1COCCO1,Coumarin 151,"1,4-dioxane",364.0,4494.8489837725065,,442.0,3615.822101162365,0.71,4.65,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1COCCO1,C151,Dioxane,364.0,,,449.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1COCCO1,Coumarin 151,"1,4-dioxane",364.0,4494.8489837725065,,442.0,3615.822101162365,0.71,4.65,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1COCCO1,C151,Dioxane,364.0,,,449.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCOC(C)=O,Coumarin 151,Ethyl acetate,368.0,4499.291819649756,,456.0,3534.5362025961185,0.62,4.67,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,Coumarin 151,n-octanol,383.0,,,480.0,,0.63,5.4,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,C151,OcOH,383.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,C151,octanol,380.0,,,478.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,Coumarin 151,n-octanol,383.0,,,480.0,,0.63,5.4,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,C151,OcOH,383.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,C151,octanol,380.0,,,478.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,Coumarin 151,n-octanol,383.0,,,480.0,,0.63,5.4,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,C151,OcOH,383.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCCCO,C151,octanol,380.0,,,478.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCO,Coumarin 151,n-hexanol,384.0,,,481.0,,0.54,5.29,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCO,C151,hexanol,382.0,,,479.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCO,Coumarin 151,n-hexanol,384.0,,,481.0,,0.54,5.29,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCO,C151,hexanol,382.0,,,479.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 151,n-butanol,383.0,,,484.0,,0.48,5.24,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C151,1-BuOH,383.0,,,484.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C151,butanol,384.0,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 151,n-butanol,383.0,,,484.0,,0.48,5.24,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C151,1-BuOH,383.0,,,484.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C151,butanol,384.0,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 151,n-butanol,383.0,,,484.0,,0.48,5.24,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C151,1-BuOH,383.0,,,484.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C151,butanol,384.0,,,480.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,Coumarin 151,dimethyl sulfoxide,386.0,,,487.0,,0.48,5.0,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,C151,DMSO,386.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,C151,DMSO,386.0,,,486.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,Coumarin 151,dimethyl sulfoxide,386.0,,,487.0,,0.48,5.0,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,C151,DMSO,386.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,C151,DMSO,386.0,,,486.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,Coumarin 151,dimethyl sulfoxide,386.0,,,487.0,,0.48,5.0,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,C151,DMSO,386.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CS(C)=O,C151,DMSO,386.0,,,486.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CN(C)C=O,Coumarin 151,DMF,378.0,,,480.0,,0.49,5.22,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CN(C)C=O,C151,DMF,382.0,,,477.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CN(C)C=O,Coumarin 151,DMF,378.0,,,480.0,,0.49,5.22,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CN(C)C=O,C151,DMF,382.0,,,477.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,Coumarin 151,i-propanol,384.0,,,481.0,,0.52,5.28,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,C151,2-PrOH,384.0,,,479.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,Coumarin 151,i-propanol,384.0,,,481.0,,0.52,5.28,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,C151,2-PrOH,384.0,,,479.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)=O,Coumarin 151,acetone,371.0,,,466.0,,0.59,4.97,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 151,Ethanol,383.0,,,485.0,,0.49,5.38,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,15,ethanol,382.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C151,EtOH,381.0,,,483.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 151,Ethanol,383.0,,,485.0,,0.49,5.38,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,15,ethanol,382.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C151,EtOH,381.0,,,483.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 151,Ethanol,383.0,,,485.0,,0.49,5.38,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,15,ethanol,382.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C151,EtOH,381.0,,,483.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 151,methanol,378.0,,,487.0,,0.37,5.31,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,CRNO,methanol,,,,,,0.99,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,378.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,377.0,,,487.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 151,methanol,378.0,,,487.0,,0.37,5.31,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,CRNO,methanol,,,,,,0.99,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,378.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,377.0,,,487.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 151,methanol,378.0,,,487.0,,0.37,5.31,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,CRNO,methanol,,,,,,0.99,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,378.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,377.0,,,487.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 151,methanol,378.0,,,487.0,,0.37,5.31,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,CRNO,methanol,,,,,,0.99,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,378.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+Nc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C151,MeOH,377.0,,,487.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*N,,"[2, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,aminocoumarin 8,acetonitrile,454.0,,,501.0,,,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,Coumarin 6,acetonitrile,447.0,,,506.6,,0.43,2.55,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,coumarin 6(8)(350),acetonitrile,457.0,3164.6737838250338,4.707570176097937,501.0,2222.3677474711694,0.63,3.2,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,acetonitrile,452.2,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,849,acetonitrile,452.2,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC#N,C6,MeCN,458.0,,4.743,505.0,,0.86,2.48,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,Coumarin 6,Ethanol,460.0,,,505.0,,,2.5,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,C6,Ethanol,457.0,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,851,Ethanol,457.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,43,ethanol,460.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,Coumarin 6,Ethanol,460.0,,,505.0,,,2.5,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,C6,Ethanol,457.0,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,851,Ethanol,457.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,43,ethanol,460.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,Coumarin 6,Ethanol,460.0,,,505.0,,,2.5,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,C6,Ethanol,457.0,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,851,Ethanol,457.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,43,ethanol,460.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,Coumarin 6,Ethanol,460.0,,,505.0,,,2.5,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,C6,Ethanol,457.0,,,502.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,851,Ethanol,457.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCO,43,ethanol,460.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,Coumarin 6,hexane,425.0,,,463.0,,0.57,2.37,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,hexane,425.8,,,459.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,861,hexane,425.8,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,n-Hex,427.0,,,462.0,,0.88,2.34,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,Coumarin 6,hexane,425.0,,,463.0,,0.57,2.37,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,hexane,425.8,,,459.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,861,hexane,425.8,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,n-Hex,427.0,,,462.0,,0.88,2.34,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,Coumarin 6,hexane,425.0,,,463.0,,0.57,2.37,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,hexane,425.8,,,459.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,861,hexane,425.8,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,n-Hex,427.0,,,462.0,,0.88,2.34,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,Coumarin 6,hexane,425.0,,,463.0,,0.57,2.37,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,hexane,425.8,,,459.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,861,hexane,425.8,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCCCCC,C6,n-Hex,427.0,,,462.0,,0.88,2.34,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCC(C)CC,Coumarin 6,3-Methylpentane,425.0,,,461.6,,0.57,2.38,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,Coumarin 6,Cyclohexane,425.4,,,462.0,,0.59,2.38,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,C6,Cyclohexane,428.6,,,463.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,860,Cyclohexane,428.6,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,7-NEt2_CUM,cyclohexane,428.0,,,464.0,,0.6762,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,Coumarin 6,Cyclohexane,425.4,,,462.0,,0.59,2.38,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,C6,Cyclohexane,428.6,,,463.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,860,Cyclohexane,428.6,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,7-NEt2_CUM,cyclohexane,428.0,,,464.0,,0.6762,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,Coumarin 6,Cyclohexane,425.4,,,462.0,,0.59,2.38,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,C6,Cyclohexane,428.6,,,463.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,860,Cyclohexane,428.6,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,7-NEt2_CUM,cyclohexane,428.0,,,464.0,,0.6762,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,Coumarin 6,Cyclohexane,425.4,,,462.0,,0.59,2.38,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,C6,Cyclohexane,428.6,,,463.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,860,Cyclohexane,428.6,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,C1CCCCC1,7-NEt2_CUM,cyclohexane,428.0,,,464.0,,0.6762,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CC1CCCCC1,Coumarin 6,Toluene,425.4,,,462.0,,0.56,2.32,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,Coumarin 6,Ethyl acetate,439.4,,,492.8,,0.47,2.46,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,Ethyl acetate,450.0,,,495.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,855,Ethyl acetate,450.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,EtOAc,442.0,,4.734,492.0,,0.9,2.39,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,Coumarin 6,Ethyl acetate,439.4,,,492.8,,0.47,2.46,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,Ethyl acetate,450.0,,,495.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,855,Ethyl acetate,450.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,EtOAc,442.0,,4.734,492.0,,0.9,2.39,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,Coumarin 6,Ethyl acetate,439.4,,,492.8,,0.47,2.46,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,Ethyl acetate,450.0,,,495.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,855,Ethyl acetate,450.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,EtOAc,442.0,,4.734,492.0,,0.9,2.39,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,Coumarin 6,Ethyl acetate,439.4,,,492.8,,0.47,2.46,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,Ethyl acetate,450.0,,,495.0,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,855,Ethyl acetate,450.0,,,,,,,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4s3)c(=O)oc2c1,CCOC(C)=O,C6,EtOAc,442.0,,4.734,492.0,,0.9,2.39,,,,,,,,,,*c1nc2ccccc2s1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4n3C)c(=O)oc2c1,CC#N,aminocoumarin 9,acetonitrile,403.0,,,480.0,,,2.8,,,,,,,,,,*c1nc2ccccc2n1C,,,,,*N(CC)CC,,"[1, 5]",2
+CCNc1cc2oc(=O)cc(C)c2cc1C,CC#N,aminocoumarin 10,acetonitrile,354.0,,,420.0,,,3.5,,,,,,,,,,,*C,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,aminocoumarin 11,acetonitrile,383.0,,,481.0,,,7.7,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,C307,Acetonitrile,385.5050115651504,,,476.009139375476,,,,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,C307,acetonitrile,387.0,,,478.0,,,5.17,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,aminocoumarin 11,acetonitrile,383.0,,,481.0,,,7.7,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,C307,Acetonitrile,385.5050115651504,,,476.009139375476,,,,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,C307,acetonitrile,387.0,,,478.0,,,5.17,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,aminocoumarin 11,acetonitrile,383.0,,,481.0,,,7.7,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,C307,Acetonitrile,385.5050115651504,,,476.009139375476,,,,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+CCNc1cc2oc(=O)cc(C(F)(F)F)c2cc1C,CC#N,C307,acetonitrile,387.0,,,478.0,,,5.17,,,,,,,,,,,*C(F)(F)F,,,*C,*NCC,,"[2, 4, 5]",3
+N#CCc1ccccc1-c1cc2ccccc2oc1=O,ClC(Cl)Cl,symmetrical biscoumarin - 1c,chloroform,318.0,,4.222716471147583,404.0,,,1.4,,,,,,,,,,*c1ccccc1CC#N,,,,,,,[1],1
+COc1ccc2cc(-c3ccccc3CC#N)c(=O)oc2c1,ClC(Cl)Cl,symmetrical biscoumarin - 2c,chloroform,336.0,,4.294466226161593,409.0,,,2.4,,,,,,,,,,*c1ccccc1CC#N,,,,,*OC,,"[1, 5]",2
+COc1cc(OC)c2cc(-c3ccccc3CC#N)c(=O)oc2c1,ClC(Cl)Cl,symmetrical biscoumarin - 3c,chloroform,342.0,,4.363611979892144,422.0,,,2.8,,,,,,,,,,*c1ccccc1CC#N,,,*OC,,*OC,,"[1, 3, 5]",3
+COc1ccc2c(-c3nc(-c4ccccc4)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9a,chloroform,345.0,,,450.0,3591.2313959981875,0.25,4.8,,,,,,,,,,,*c1nc(-c2ccccc2)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4ccccc4)no3)cc(=O)oc2c1,CCO,coumarin - 9a,Ethanol,344.0,,,464.0,3517.600199317403,0.62,6.4,,,,,,,,,,,*c1nc(-c2ccccc2)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4cccc(Br)c4)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9b,chloroform,360.0,,,449.0,3696.1490905480414,0.33,6.8,,,,,,,,,,,*c1nc(-c2cccc(Br)c2)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4cccc(Br)c4)no3)cc(=O)oc2c1,CCO,coumarin - 9b,Ethanol,259.0,,,466.0,3537.098909317163,0.41,,,,,,,,,,,,*c1nc(-c2cccc(Br)c2)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4ccccc4F)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9c,chloroform,339.0,,,453.0,3640.3853129654926,0.25,,,,,,,,,,,,*c1nc(-c2ccccc2F)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4ccccc4F)no3)cc(=O)oc2c1,CCO,coumarin - 9c,Ethanol,333.0,,,464.0,3583.3231213135587,0.57,,,,,,,,,,,,*c1nc(-c2ccccc2F)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4ccccc4Cl)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9d,chloroform,355.0,,,450.0,3642.025843944338,0.19,,,,,,,,,,,,*c1nc(-c2ccccc2Cl)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4ccccc4Cl)no3)cc(=O)oc2c1,CCO,coumarin - 9d,Ethanol,354.0,,,464.0,3594.48737593904,0.39,,,,,,,,,,,,*c1nc(-c2ccccc2Cl)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4cccc(C)c4)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9e,chloroform,403.0,,,450.0,3519.5578031556142,0.12,,,,,,,,,,,,*c1nc(-c2cccc(C)c2)no1,,,,*OC,,"[2, 5]",2
+COc1ccc2c(-c3nc(-c4cccc(C)c4)no3)cc(=O)oc2c1,CCO,coumarin - 9e,Ethanol,401.0,,,464.0,3514.460128658688,0.52,,,,,,,,,,,,*c1nc(-c2cccc(C)c2)no1,,,,*OC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4ccccc4)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9f,chloroform,392.0,,,454.0,3546.726234051493,0.31,,,,,,,,,,,,*c1nc(-c2ccccc2)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4ccccc4)no3)cc(=O)oc2c1,CCO,coumarin - 9f,Ethanol,388.0,,,468.0,3498.8610794772685,0.6,6.7,,,,,,,,,,,*c1nc(-c2ccccc2)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4cccc(Br)c4)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9g,chloroform,403.0,,,452.0,3528.816671570934,0.2,,,,,,,,,,,,*c1nc(-c2cccc(Br)c2)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4cccc(Br)c4)no3)cc(=O)oc2c1,CCO,coumarin - 9g,Ethanol,388.0,,,458.0,3716.723043311067,0.52,,,,,,,,,,,,*c1nc(-c2cccc(Br)c2)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4ccccc4F)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9h,chloroform,393.0,,,453.0,3557.5140417540133,0.36,5.1,,,,,,,,,,,*c1nc(-c2ccccc2F)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4ccccc4F)no3)cc(=O)oc2c1,CCO,coumarin - 9h,Ethanol,345.0,,,465.0,3575.313824164732,0.64,6.6,,,,,,,,,,,*c1nc(-c2ccccc2F)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4ccccc4Cl)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9i,chloroform,394.0,,,446.0,3673.040924014065,0.26,5.5,,,,,,,,,,,*c1nc(-c2ccccc2Cl)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4ccccc4Cl)no3)cc(=O)oc2c1,CCO,coumarin - 9i,Ethanol,393.0,,,432.0,3728.875249894303,0.52,6.5,,,,,,,,,,,*c1nc(-c2ccccc2Cl)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4cccc(C)c4)no3)cc(=O)oc2c1,ClC(Cl)Cl,coumarin - 9j,chloroform,322.0,,,456.0,3496.3457353521444,0.23,,,,,,,,,,,,*c1nc(-c2cccc(C)c2)no1,,,,*OCC,,"[2, 5]",2
+CCOc1ccc2c(-c3nc(-c4cccc(C)c4)no3)cc(=O)oc2c1,CCO,coumarin - 9j,Ethanol,345.0,,,465.0,3521.1142838471387,0.68,,,,,,,,,,,,*c1nc(-c2cccc(C)c2)no1,,,,*OCC,,"[2, 5]",2
+CCN(CC)c1ccc2cc(C#N)c(=O)oc2c1,ClCCl,iminocoumarin - 3,dichloromethane,428.0,,4.66838591669,460.0,,0.82,2.7,,,,,,,,,,*C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClCCl,iminocoumarin - 4,dichloromethane,376.0,,4.471291711058939,466.0,,0.9,3.3,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClCCl,DEAC,dichlormethane,375.0,,,430.0,,0.1108,3.56,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClCCl,iminocoumarin - 4,dichloromethane,376.0,,4.471291711058939,466.0,,0.9,3.3,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClCCl,DEAC,dichlormethane,375.0,,,430.0,,0.1108,3.56,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCCCCC,7-diethylaminocoumarin,hexane,353.0,,,392.0,4088.692409791125,0.85,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCCCCCC,7-diethylaminocoumarin,Heptane,352.0,3768.283712573408,,390.0,,0.85,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,c1ccccc1,7-diethylaminocoumarin,benzene,355.0,,,395.0,,0.83,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,Cc1ccccc1,7-diethylaminocoumarin,Toluene,369.0,,,418.0,,0.83,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCOCC,7-diethylaminocoumarin,diethylether,359.0,,,405.0,,0.8,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)(Cl)Cl,7-diethylaminocoumarin,CCl4,360.0,,,412.0,,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)(Cl)Cl,DEAC,carbon tetrachloride,375.0,,,433.0,,0.029,1.45,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)(Cl)Cl,7-diethylaminocoumarin,CCl4,360.0,,,412.0,,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)(Cl)Cl,DEAC,carbon tetrachloride,375.0,,,433.0,,0.029,1.45,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)Cl,7-diethylaminocoumarin,chloroform,375.0,,,435.0,,0.62,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)Cl,DEAC,chloroform,380.0,,,425.0,,0.1082,3.17,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)Cl,7-diethylaminocoumarin,chloroform,375.0,,,435.0,,0.62,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,ClC(Cl)Cl,DEAC,chloroform,380.0,,,425.0,,0.1082,3.17,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CN(C)C=O,7-diethylaminocoumarin,DMF,379.0,,,440.0,,0.56,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCCO,7-diethylaminocoumarin,n-propanol,379.0,,,442.0,,0.52,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CC(C)=O,7-diethylaminocoumarin,acetone,370.0,,,430.0,,0.55,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,7-diethylaminocoumarin,Ethanol,380.0,,,443.0,,0.39,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,C466,Ethanol,378.0,3963.86,,456.0,2967.89,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,DEAC,EtOH,370.0,,,452.0,,0.0581,2.37,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,10,ethanol,380.0,,,,,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,7-diethylaminocoumarin,Ethanol,380.0,,,443.0,,0.39,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,C466,Ethanol,378.0,3963.86,,456.0,2967.89,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,DEAC,EtOH,370.0,,,452.0,,0.0581,2.37,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,10,ethanol,380.0,,,,,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,7-diethylaminocoumarin,Ethanol,380.0,,,443.0,,0.39,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,C466,Ethanol,378.0,3963.86,,456.0,2967.89,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,DEAC,EtOH,370.0,,,452.0,,0.0581,2.37,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,10,ethanol,380.0,,,,,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,7-diethylaminocoumarin,Ethanol,380.0,,,443.0,,0.39,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,C466,Ethanol,378.0,3963.86,,456.0,2967.89,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,DEAC,EtOH,370.0,,,452.0,,0.0581,2.37,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCO,10,ethanol,380.0,,,,,,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CO,7-diethylaminocoumarin,methanol,381.0,3817.7191793521415,,445.0,2957.6797878919715,0.27,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,OCCO,7-diethylaminocoumarin,ethylene glycol,381.0,,,445.0,,0.25,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1ccc2ccc(=O)oc2c1,CCCCO,7-diethylaminocoumarin,n-butanol,379.0,,,442.0,,0.47,,,,,,,,,,,,,,,,*N(CC)CC,,[5],1
+CCN(CC)c1cc2oc(=O)cc(C)c2cc1C,CCO,Coumarin 450,Ethanol,442.0,,,,,,2.56,,,,,,,,,,,*C,,,*C,*N(CC)CC,,"[2, 4, 5]",3
+COc1cc(OC)c2ccc(=O)oc2c1,O,DMC,water,327.0,,,450.0,,0.76,,,,,,,,,,,,,,*OC,,*OC,,"[3, 5]",2
+COc1cc(OC)c2ccc(=O)oc2c1,CO,DMC,methanol,324.0,,,432.0,,0.71,,,,,,,,,,,,,,*OC,,*OC,,"[3, 5]",2
+COc1cc(OC)c2ccc(=O)oc2c1,CCO,DMC,Ethanol,324.0,,,425.0,4307.199932968262,0.65,,,,,,,,,,,,,,*OC,,*OC,,"[3, 5]",2
+COc1cc(OC)c2ccc(=O)oc2c1,CC(C)O,DMC,i-propanol,324.0,,,417.0,,0.56,,,,,,,,,,,,,,*OC,,*OC,,"[3, 5]",2
+COc1cc(OC)c2ccc(=O)oc2c1,CCOCC,DMC,diethylether,318.0,,,390.0,,0.07,,,,,,,,,,,,,,*OC,,*OC,,"[3, 5]",2
+O=c1oc2ccccc2cc1-c1cc2ccccc2o1,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4a,Toluene,373.0,,4.532754378992498,431.0,,0.88,,,,,,,,,,,*c1cc2ccccc2o1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1cc2ccccc2o1,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4a,Ethyl acetate,368.0,,4.532754378992498,433.0,,0.79,,,,,,,,,,,*c1cc2ccccc2o1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1cc2ccccc2o1,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4a,acetonitrile,366.0,,4.506505032404872,442.0,,0.75,,,,,,,,,,,*c1cc2ccccc2o1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1cc2ccccc2o1,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4a,dimethyl sulfoxide,371.0,,4.511883360978874,450.0,,0.99,,,,,,,,,,,*c1cc2ccccc2o1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1cc2ccccc2o1,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4a,water,365.0,,3.8750612633917,475.0,,0.15,,,,,,,,,,,*c1cc2ccccc2o1,,,,,,,[1],1
+COc1ccc2oc(-c3cc4cc(OC)ccc4oc3=O)cc2c1,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4c,Toluene,388.0,,4.332438459915605,446.0,,,,,,,,,,,,,*c1cc2cc(OC)ccc2o1,,,,*OC,,,"[1, 4]",2
+COc1ccc2oc(-c3cc4cc(OC)ccc4oc3=O)cc2c1,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4c,Ethyl acetate,384.0,,4.361727836017593,443.0,,,,,,,,,,,,,*c1cc2cc(OC)ccc2o1,,,,*OC,,,"[1, 4]",2
+COc1ccc2oc(-c3cc4cc(OC)ccc4oc3=O)cc2c1,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4c,acetonitrile,382.0,,4.342422680822207,480.0,,,,,,,,,,,,,*c1cc2cc(OC)ccc2o1,,,,*OC,,,"[1, 4]",2
+COc1ccc2oc(-c3cc4cc(OC)ccc4oc3=O)cc2c1,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4c,dimethyl sulfoxide,389.0,,4.332438459915605,484.0,,0.16,,,,,,,,,,,*c1cc2cc(OC)ccc2o1,,,,*OC,,,"[1, 4]",2
+COc1ccc2oc(-c3cc4cc(OC)ccc4oc3=O)cc2c1,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4c,water,347.0,,3.7481880270062,,,,,,,,,,,,,,*c1cc2cc(OC)ccc2o1,,,,*OC,,,"[1, 4]",2
+COc1cccc2cc(-c3cc4cccc(OC)c4oc3=O)oc12,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4e,Toluene,358.0,,4.456366033129043,448.0,,,,,,,,,,,,,*c1cc2cccc(OC)c2o1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3cc4cccc(OC)c4oc3=O)oc12,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4e,Ethyl acetate,351.0,,4.468347330412158,460.0,,,,,,,,,,,,,*c1cc2cccc(OC)c2o1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3cc4cccc(OC)c4oc3=O)oc12,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4e,acetonitrile,352.0,,4.494154594018442,488.0,,,,,,,,,,,,,*c1cc2cccc(OC)c2o1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3cc4cccc(OC)c4oc3=O)oc12,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4e,dimethyl sulfoxide,359.0,,4.457881896733992,488.0,,0.11,,,,,,,,,,,*c1cc2cccc(OC)c2o1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3cc4cccc(OC)c4oc3=O)oc12,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4e,water,363.0,,4.290034611362518,504.0,,,,,,,,,,,,,*c1cc2cccc(OC)c2o1,,,,,,*OC,"[1, 6]",2
+COc1cccc2oc(-c3cc4c(OC)cccc4oc3=O)cc12,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4f,Toluene,389.0,,4.325310371711061,460.0,,,,,,,,,,,,,*c1cc2c(OC)cccc2o1,,,*OC,,,,"[1, 3]",2
+COc1cccc2oc(-c3cc4c(OC)cccc4oc3=O)cc12,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4f,Ethyl acetate,385.0,,4.32221929473392,460.0,,,,,,,,,,,,,*c1cc2c(OC)cccc2o1,,,*OC,,,,"[1, 3]",2
+COc1cccc2oc(-c3cc4c(OC)cccc4oc3=O)cc12,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4f,acetonitrile,383.0,,4.323252100171687,480.0,,,,,,,,,,,,,*c1cc2c(OC)cccc2o1,,,*OC,,,,"[1, 3]",2
+COc1cccc2oc(-c3cc4c(OC)cccc4oc3=O)cc12,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4f,dimethyl sulfoxide,389.0,,4.306425027550687,484.0,,0.68,,,,,,,,,,,*c1cc2c(OC)cccc2o1,,,*OC,,,,"[1, 3]",2
+COc1cccc2oc(-c3cc4c(OC)cccc4oc3=O)cc12,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4f,water,384.0,,4.167317334748176,521.0,,,,,,,,,,,,,*c1cc2c(OC)cccc2o1,,,*OC,,,,"[1, 3]",2
+COc1ccc2cc(-c3cc4ccc(OC)cc4oc3=O)oc2c1,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4g,Toluene,395.0,,4.472756449317212,465.0,,,,,,,,,,,,,*c1cc2ccc(OC)cc2o1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3cc4ccc(OC)cc4oc3=O)oc2c1,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4g,Ethyl acetate,390.0,,4.488550716500444,465.0,,,,,,,,,,,,,*c1cc2ccc(OC)cc2o1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3cc4ccc(OC)cc4oc3=O)oc2c1,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4g,acetonitrile,388.0,,4.47928731647617,473.0,,,,,,,,,,,,,*c1cc2ccc(OC)cc2o1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3cc4ccc(OC)cc4oc3=O)oc2c1,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4g,dimethyl sulfoxide,394.0,,4.460897842756548,484.0,,0.75,,,,,,,,,,,*c1cc2ccc(OC)cc2o1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3cc4ccc(OC)cc4oc3=O)oc2c1,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4g,water,361.0,,3.9731278535996974,,,,,,,,,,,,,,*c1cc2ccc(OC)cc2o1,,,,,*OC,,"[1, 5]",2
+O=c1oc2ccc(Br)cc2cc1-c1cc2cc(Br)ccc2o1,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4h,Toluene,377.0,,4.537819095073274,436.0,,,,,,,,,,,,,*c1cc2cc(Br)ccc2o1,,,,*Br,,,"[1, 4]",2
+O=c1oc2ccc(Br)cc2cc1-c1cc2cc(Br)ccc2o1,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4h,Ethyl acetate,371.0,,4.525044807036846,431.0,,,,,,,,,,,,,*c1cc2cc(Br)ccc2o1,,,,*Br,,,"[1, 4]",2
+O=c1oc2ccc(Br)cc2cc1-c1cc2cc(Br)ccc2o1,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4h,acetonitrile,370.0,,4.513217600067939,433.0,,,,,,,,,,,,,*c1cc2cc(Br)ccc2o1,,,,*Br,,,"[1, 4]",2
+O=c1oc2ccc(Br)cc2cc1-c1cc2cc(Br)ccc2o1,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4h,dimethyl sulfoxide,374.0,,4.487138375477186,444.0,,0.2,,,,,,,,,,,*c1cc2cc(Br)ccc2o1,,,,*Br,,,"[1, 4]",2
+O=c1oc2ccc(Br)cc2cc1-c1cc2cc(Br)ccc2o1,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4h,water,331.0,,3.8750612633917,507.0,,,,,,,,,,,,,*c1cc2cc(Br)ccc2o1,,,,*Br,,,"[1, 4]",2
+O=c1oc2ccc(Cl)cc2cc1-c1cc2cc(Cl)ccc2o1,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4i,Toluene,375.0,,4.502427119984433,433.0,,,,,,,,,,,,,*c1cc2cc(Cl)ccc2o1,,,,*Cl,,,"[1, 4]",2
+O=c1oc2ccc(Cl)cc2cc1-c1cc2cc(Cl)ccc2o1,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4i,Ethyl acetate,370.0,,4.523746466811565,429.0,,,,,,,,,,,,,*c1cc2cc(Cl)ccc2o1,,,,*Cl,,,"[1, 4]",2
+O=c1oc2ccc(Cl)cc2cc1-c1cc2cc(Cl)ccc2o1,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4i,acetonitrile,369.0,,4.539076098792776,431.0,,,,,,,,,,,,,*c1cc2cc(Cl)ccc2o1,,,,*Cl,,,"[1, 4]",2
+O=c1oc2ccc(Cl)cc2cc1-c1cc2cc(Cl)ccc2o1,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4i,dimethyl sulfoxide,373.0,,4.521138083704036,488.0,,0.2,,,,,,,,,,,*c1cc2cc(Cl)ccc2o1,,,,*Cl,,,"[1, 4]",2
+O=c1oc2ccc(Cl)cc2cc1-c1cc2cc(Cl)ccc2o1,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4i,water,327.0,,3.7993405494535817,473.0,,,,,,,,,,,,,*c1cc2cc(Cl)ccc2o1,,,,*Cl,,,"[1, 4]",2
+COc1cc(Br)cc2cc(-c3cc4cc(Br)cc(OC)c4oc3=O)oc12,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4j,Toluene,360.0,,4.406540180433956,430.0,,,,,,,,,,,,,*c1cc2cc(Br)cc(OC)c2o1,,,,*Br,,*OC,"[1, 4, 6]",3
+COc1cc(Br)cc2cc(-c3cc4cc(Br)cc(OC)c4oc3=O)oc12,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4j,Ethyl acetate,355.0,,4.480006942957151,434.0,,,,,,,,,,,,,*c1cc2cc(Br)cc(OC)c2o1,,,,*Br,,*OC,"[1, 4, 6]",3
+COc1cc(Br)cc2cc(-c3cc4cc(Br)cc(OC)c4oc3=O)oc12,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4j,acetonitrile,353.0,,4.372912002970106,381.0,,,,,,,,,,,,,*c1cc2cc(Br)cc(OC)c2o1,,,,*Br,,*OC,"[1, 4, 6]",3
+COc1cc(Br)cc2cc(-c3cc4cc(Br)cc(OC)c4oc3=O)oc12,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4j,dimethyl sulfoxide,359.0,,4.469822015978163,387.0,,0.005,,,,,,,,,,,*c1cc2cc(Br)cc(OC)c2o1,,,,*Br,,*OC,"[1, 4, 6]",3
+COc1cc(Br)cc2cc(-c3cc4cc(Br)cc(OC)c4oc3=O)oc12,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4j,water,359.0,,4.194514341882467,497.0,,,,,,,,,,,,,*c1cc2cc(Br)cc(OC)c2o1,,,,*Br,,*OC,"[1, 4, 6]",3
+COc1cc2cc(-c3cc4cc(OC)c(OC)cc4oc3=O)oc2cc1OC,Cc1ccccc1,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4k,Toluene,410.0,,4.297979244159363,475.0,,,,,,,,,,,,,*c1cc2cc(OC)c(OC)cc2o1,,,,*OC,*OC,,"[1, 4, 5]",3
+COc1cc2cc(-c3cc4cc(OC)c(OC)cc4oc3=O)oc2cc1OC,CCOC(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4k,Ethyl acetate,408.0,,4.291146761731886,478.0,,,,,,,,,,,,,*c1cc2cc(OC)c(OC)cc2o1,,,,*OC,*OC,,"[1, 4, 5]",3
+COc1cc2cc(-c3cc4cc(OC)c(OC)cc4oc3=O)oc2cc1OC,CC#N,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4k,acetonitrile,404.0,,4.310905629376141,493.0,,,,,,,,,,,,,*c1cc2cc(OC)c(OC)cc2o1,,,,*OC,*OC,,"[1, 4, 5]",3
+COc1cc2cc(-c3cc4cc(OC)c(OC)cc4oc3=O)oc2cc1OC,CS(C)=O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4k,dimethyl sulfoxide,411.0,,4.285782273779395,500.0,,0.07,,,,,,,,,,,*c1cc2cc(OC)c(OC)cc2o1,,,,*OC,*OC,,"[1, 4, 5]",3
+COc1cc2cc(-c3cc4cc(OC)c(OC)cc4oc3=O)oc2cc1OC,O,3â€‘Bromoâ€‘2Hâ€‘coumarins to 3â€‘(Benzofuran-2- yl)â€‘2Hâ€‘coumarins 4k,water,358.0,,3.822821645303105,435.0,,,,,,,,,,,,,*c1cc2cc(OC)c(OC)cc2o1,,,,*OC,*OC,,"[1, 4, 5]",3
+CCN(CC)c1ccc2cc(-c3nc4cc(C(=O)Nc5ccccc5)ccc4o3)c(=O)oc2c1,ClCCl,coumarin-benzoxazole 4a,dichloromethane,442.0,4291.919233231125,5.507855871695831,495.0,1664.000447415743,0.35,,,,,,,,,,,*c1nc2cc(C(=O)Nc3ccccc3)ccc2o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4cc(C(=O)Nc5ccccc5Cl)ccc4o3)c(=O)oc2c1,ClCCl,coumarin-benzoxazole 4b,dichloromethane,441.0,4275.305273324851,5.505149978319906,496.0,1661.552169668219,0.23,,,,,,,,,,,*c1nc2cc(C(=O)Nc3ccccc3Cl)ccc2o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4cc(C(=O)Nc5ccc(C)cc5[N+](=O)[O-])ccc4o3)c(=O)oc2c1,ClCCl,coumarin-benzoxazole 4c,dichloromethane,445.0,4765.1201426157495,5.570542939881897,496.0,1704.1752564667768,0.43,,,,,,,,,,,*c1nc2cc(C(=O)Nc3ccc(C)cc3[N+](=O)[O-])ccc2o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4cc(C(=O)Nc5ccccc5[N+](=O)[O-])ccc4o3)c(=O)oc2c1,ClCCl,coumarin-benzoxazole 4d,dichloromethane,448.0,4093.9721395216,5.633468455579586,498.0,1648.141681579291,0.38,,,,,,,,,,,*c1nc2cc(C(=O)Nc3ccccc3[N+](=O)[O-])ccc2o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4cc(C(=O)Nc5cccc(C)c5)ccc4o3)c(=O)oc2c1,ClCCl,coumarin-benzoxazole 4e,dichloromethane,440.0,3776.791270294787,5.465382851448418,495.0,1791.7521593754573,0.32,,,,,,,,,,,*c1nc2cc(C(=O)Nc3cccc(C)c3)ccc2o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4cc(C(=O)Nc5cccc(OC)c5)ccc4o3)c(=O)oc2c1,ClCCl,coumarin-benzoxazole 4f,dichloromethane,437.0,4560.756713024995,5.507855871695831,494.0,1607.7601000769137,0.21,,,,,,,,,,,*c1nc2cc(C(=O)Nc3cccc(OC)c3)ccc2o1,,,,,*N(CC)CC,,"[1, 5]",2
+O=C(Nc1ccccc1[N+](=O)[O-])c1ccc2oc(-c3cc4ccccc4oc3=O)nc2c1,ClCCl,coumarin-benzoxazole 4g,dichloromethane,360.0,,5.2878017299302265,443.0,4340.715343201118,0.12,,,,,,,,,,,*c1nc2cc(C(=O)Nc3ccccc3[N+](=O)[O-])ccc2o1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1ccc([N+](=O)[O-])cc1,ClC(Cl)Cl,3-(p-nitrophenyl)Coumarin 1b,chloroform,341.0,,,400.0,1932.856301313917,0.013,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1ccc([N+](=O)[O-])cc1,C1CCOC1,3-(p-nitrophenyl)Coumarin 1b,THF,331.0,,,421.0,5489.66163595832,0.006,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1ccc([N+](=O)[O-])cc1,CC#N,3-(p-nitrophenyl)Coumarin 1b,acetonitrile,336.0,,,409.0,7595.13195248257,0.0022,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1ccc([N+](=O)[O-])cc1,CS(C)=O,3-(p-nitrophenyl)Coumarin 1b,dimethyl sulfoxide,344.0,,,425.0,4875.033789853485,0.0013,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,,[1],1
+COc1cccc2cc(-c3ccc([N+](=O)[O-])cc3)c(=O)oc12,ClC(Cl)Cl,3-(p-nitrophenyl)Coumarin 2b,chloroform,329.0,,,377.0,6760.172422823023,0.014,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3ccc([N+](=O)[O-])cc3)c(=O)oc12,C1CCOC1,3-(p-nitrophenyl)Coumarin 2b,THF,331.0,,,373.0,3876.921778606531,0.005,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3ccc([N+](=O)[O-])cc3)c(=O)oc12,CC#N,3-(p-nitrophenyl)Coumarin 2b,acetonitrile,327.0,,,363.0,4728.092817850586,0.0019,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,*OC,"[1, 6]",2
+COc1cccc2cc(-c3ccc([N+](=O)[O-])cc3)c(=O)oc12,CS(C)=O,3-(p-nitrophenyl)Coumarin 2b,dimethyl sulfoxide,334.0,,,385.0,3646.776715713248,0.0015,,,,,,,,,,,*c1ccc([N+](=O)[O-])cc1,,,,,,*OC,"[1, 6]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,triazole-substituted coumarin 1a,Ethanol,323.0,,4.06,380.0,3760.7636257619415,0.33,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,4MU,Ethanol,322.913975716869,,,405.35062829347385,,,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,1,ethanol,372.0,,,,,,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,triazole-substituted coumarin 1a,Ethanol,323.0,,4.06,380.0,3760.7636257619415,0.33,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,4MU,Ethanol,322.913975716869,,,405.35062829347385,,,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,1,ethanol,372.0,,,,,,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,triazole-substituted coumarin 1a,Ethanol,323.0,,4.06,380.0,3760.7636257619415,0.33,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,4MU,Ethanol,322.913975716869,,,405.35062829347385,,,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+Cc1cc(=O)oc2cc(O)ccc12,CCO,1,ethanol,372.0,,,,,,,,,,,,,,,,,*C,,,,*O,,"[2, 5]",2
+C#Cc1ccc2c(C)cc(=O)oc2c1,CCO,triazole-substituted coumarin 1b,Ethanol,325.0,,4.342422680822207,380.0,4300.61181499976,0.02,,,,,,,,,,,,*C,,,,*C#C,,"[2, 5]",2
+Cc1cc(=O)oc2cc(-c3cn(Cc4ccccc4)nn3)ccc12,CCO,triazole-substituted coumarin 1c,Ethanol,329.0,7989.646185140788,4.243038048686294,381.0,4124.140259993674,0.17,,,,,,,,,,,,*C,,,,*c1cn(Cc2ccccc2)nn1,,"[2, 5]",2
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,CCCCCCC,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,Heptane,319.0,6236.943578215803,3.950997333988805,391.0,,0.002,0.16,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,C1CCCCC1,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,Cyclohexane,321.0,,3.941759813814696,378.0,5965.874717839924,0.004,0.16,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,C1COCCO1,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,"1,4-dioxane",319.0,6091.323893741195,3.968903030303828,386.0,,0.004,0.17,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,C1CCOC1,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,THF,322.0,,3.994449137014036,391.0,6426.357698051215,0.006,1.17,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,CN(C)C=O,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,DMF,322.0,,3.9732664361085286,396.0,4907.435168517633,0.016,1.02,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,CC#N,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,acetonitrile,321.0,5482.311844557175,3.994449137014036,387.0,4586.1655436377805,0.015,0.56,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,CCO,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,Ethanol,323.0,,3.9986080293150943,386.0,4479.130080675051,0.052,0.43,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,CO,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,methanol,322.0,5275.140207223845,3.9986080293150943,391.0,4154.086053686831,0.053,0.44,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,OCCO,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,ethylene glycol,326.0,,3.977586438003851,392.0,4045.169623362373,0.182,1.46,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+N#C[Se]CCCCCOc1ccc2ccc(=O)oc2c1,O,7-oxy(5-selenocyanato-pentyl)-2H-1-benzopyran-2-one,water,324.0,4644.036655797419,3.977586438003851,397.0,3836.50235328186,0.497,1.75,,,,,,,,,,,,,,,*OCCCCC[Se]C#N,,[5],1
+CCOC(=O)c1c(-c2c(Cl)c3ccccc3oc2=O)nn(-c2ccccc2)c1C(=O)OCC,ClCCl,8a,dichloromethane,322.0,,4.094610863032137,406.0,4650.871668915817,,,,,,,,,,,,*c1nn(-c2ccccc2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,,,,"[1, 2]",2
+CCOC(=O)c1c(-c2c(Cl)c3ccccc3oc2=O)nn(-c2cccc(C)c2)c1C(=O)OCC,ClCCl,8b,dichloromethane,321.0,,4.071882007306125,410.0,4598.83015002813,,,,,,,,,,,,*c1nn(-c2cccc(C)c2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,,,,"[1, 2]",2
+CCOC(=O)c1c(-c2c(Cl)c3ccccc3oc2=O)nn(-c2ccc(OC)cc2)c1C(=O)OCC,ClCCl,8c,dichloromethane,321.0,,4.168291188851266,484.0,4342.309222916123,,,,,,,,,,,,*c1nn(-c2ccc(OC)cc2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,,,,"[1, 2]",2
+CCOC(=O)c1c(-c2c(Cl)c3ccccc3oc2=O)nn(-c2cccc(Cl)c2)c1C(=O)OCC,ClCCl,8d,dichloromethane,321.0,,4.181929295503233,409.0,4478.694346127861,,,,,,,,,,,,*c1nn(-c2cccc(Cl)c2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,,,,"[1, 2]",2
+CCOC(=O)c1c(-c2c(Cl)c3ccccc3oc2=O)nn(-c2ccc(Br)cc2)c1C(=O)OCC,ClCCl,8e,dichloromethane,322.0,,4.219348717313578,406.0,4546.797032785038,,,,,,,,,,,,*c1nn(-c2ccc(Br)cc2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,,,,"[1, 2]",2
+CCOC(=O)c1c(-c2c(Cl)c3cc(C)ccc3oc2=O)nn(-c2ccccc2)c1C(=O)OCC,ClCCl,8f,dichloromethane,332.0,,4.279872181802656,417.0,4394.779987382532,,,,,,,,,,,,*c1nn(-c2ccccc2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,*C,,,"[1, 2, 4]",3
+CCOC(=O)c1c(-c2c(Cl)c3cc(C)ccc3oc2=O)nn(-c2cccc(C)c2)c1C(=O)OCC,ClCCl,8g,dichloromethane,331.0,,4.305222351923695,418.0,4436.927954268525,,,,,,,,,,,,*c1nn(-c2cccc(C)c2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,*C,,,"[1, 2, 4]",3
+CCOC(=O)c1c(-c2c(Cl)c3cc(C)ccc3oc2=O)nn(-c2cccc(Cl)c2)c1C(=O)OCC,ClCCl,8h,dichloromethane,331.0,,4.466734198826303,420.0,4764.352029000318,,,,,,,,,,,,*c1nn(-c2cccc(Cl)c2)c(C(=O)OCC)c1C(=O)OCC,*Cl,,,*C,,,"[1, 2, 4]",3
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2ccccc2)c1C(=O)OCC,ClCCl,12a,dichloromethane,323.0,,4.198327117723478,401.0,4387.757444542276,,,,,,,,,,,,*c1nn(-c2ccccc2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2cccc(C)c2)c1C(=O)OCC,ClCCl,12c,dichloromethane,321.0,,4.197556213153536,404.0,4254.7144839461,,,,,,,,,,,,*c1nn(-c2cccc(C)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2ccc(C)c(C)c2)c1C(=O)OCC,ClCCl,12e,dichloromethane,322.0,,4.214075208502808,408.0,4484.522387143061,,,,,,,,,,,,*c1nn(-c2ccc(C)c(C)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2ccc(OC)cc2)c1C(=O)OCC,ClCCl,12f,dichloromethane,323.0,,4.2576785748691846,457.0,4890.871715243364,,,,,,,,,,,,*c1nn(-c2ccc(OC)cc2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2cccc(Cl)c2)c1C(=O)OCC,ClCCl,12g,dichloromethane,325.0,,4.179896332620706,402.0,4303.431842541067,,,,,,,,,,,,*c1nn(-c2cccc(Cl)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2cccc(F)c2)c1C(=O)OCC,ClCCl,12i,dichloromethane,324.0,,4.182557301304913,401.0,4293.073590637687,,,,,,,,,,,,*c1nn(-c2cccc(F)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2ccc(Cl)cc2)c1C(=O)OCC,ClCCl,12k,dichloromethane,323.0,,4.220421922437841,402.0,4293.073590637687,,,,,,,,,,,,*c1nn(-c2ccc(Cl)cc2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(-c2cc3ccccc3oc2=O)nn(-c2ccc(Br)cc2)c1C(=O)OCC,ClCCl,12l,dichloromethane,323.0,,4.348908171560365,400.0,3936.548331930626,,,,,,,,,,,,*c1nn(-c2ccc(Br)cc2)c(C(=O)OCC)c1C(=O)OCC,,,,,,,[1],1
+CCOC(=O)c1c(C(=O)OC)c(-c2cc3cc(OC)ccc3oc2=O)nn1-c1ccccc1,ClCCl,12n,dichloromethane,351.0,,3.9160326101885694,451.0,3805.0241030522193,,,,,,,,,,,,*c1nn(-c2ccccc2)c(C(=O)OCC)c1C(=O)OC,,,,*OC,,,"[1, 4]",2
+CCOC(=O)c1c(-c2cc3cc(OC)ccc3oc2=O)nn(-c2cccc(C)c2)c1C(=O)OCC,ClCCl,12o,dichloromethane,351.0,,4.192985379093162,444.0,3867.9428286301263,,,,,,,,,,,,*c1nn(-c2cccc(C)c2)c(C(=O)OCC)c1C(=O)OCC,,,,*OC,,,"[1, 4]",2
+CCOC(=O)c1c(-c2cc3cc(OC)ccc3oc2=O)nn(-c2cccc(Cl)c2)c1C(=O)OCC,ClCCl,12p,dichloromethane,352.0,,4.315361486979335,445.0,3938.880946719557,,,,,,,,,,,,*c1nn(-c2cccc(Cl)c2)c(C(=O)OCC)c1C(=O)OCC,,,,*OC,,,"[1, 4]",2
+CCOC(=O)c1c(-c2cc3ccc(OC)cc3oc2=O)nn(-c2ccccc2)c1C(=O)OCC,ClCCl,12q,dichloromethane,337.0,5187.947820689838,4.439332693830263,421.0,4812.957594652729,,,,,,,,,,,,*c1nn(-c2ccccc2)c(C(=O)OCC)c1C(=O)OCC,,,,,*OC,,"[1, 5]",2
+CCOC(=O)c1c(-c2cc3ccc(OC)cc3oc2=O)nn(-c2cccc(C)c2)c1C(=O)OCC,ClCCl,12r,dichloromethane,337.0,6133.837120757995,4.472273631611117,422.0,4646.110116877364,,,,,,,,,,,,*c1nn(-c2cccc(C)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,*OC,,"[1, 5]",2
+CCOC(=O)c1c(-c2cc3ccc(OC)cc3oc2=O)nn(-c2cccc(Cl)c2)c1C(=O)OCC,ClCCl,12s,dichloromethane,337.0,,4.6293076400737485,422.0,4658.238607391992,,,,,,,,,,,,*c1nn(-c2cccc(Cl)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,*OC,,"[1, 5]",2
+CCOC(=O)c1c(-c2cc3ccc(OCC=C(C)C)cc3oc2=O)nn(-c2ccccc2)c1C(=O)OCC,ClCCl,12t,dichloromethane,341.0,6696.928492978215,4.547368517822884,425.0,4058.3320519056106,,,,,,,,,,,,*c1nn(-c2ccccc2)c(C(=O)OCC)c1C(=O)OCC,,,,,*OCC=C(C)C,,"[1, 5]",2
+CCOC(=O)c1c(-c2cc3ccc(OCC=C(C)C)cc3oc2=O)nn(-c2cccc(C)c2)c1C(=O)OCC,ClCCl,12u,dichloromethane,338.0,,4.534977463461551,425.0,4621.351680324671,,,,,,,,,,,,*c1nn(-c2cccc(C)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,*OCC=C(C)C,,"[1, 5]",2
+CCOC(=O)c1c(-c2cc3ccc(OCC=C(C)C)cc3oc2=O)nn(-c2cccc(Cl)c2)c1C(=O)OCC,ClCCl,12v,dichloromethane,339.0,5357.945802582526,4.45782136366791,426.0,5060.486960553571,,,,,,,,,,,,*c1nn(-c2cccc(Cl)c2)c(C(=O)OCC)c1C(=O)OCC,,,,,*OCC=C(C)C,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(N)c3C#N)c(=O)oc2c1,CS(C)=O,CT-1,dimethyl sulfoxide,406.0,4916.445221523427,,482.0,,0.04,,,,,,,,,,,*c1csc(N)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(N)c3C#N)c(=O)oc2c1,CO,CT-1,methanol,406.0,4841.561394516102,,514.0,2752.222135448341,0.02,,,,,,,,,,,*c1csc(N)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(N)c3C#N)c(=O)oc2c1,ClCCl,CT-1,dichloromethane,407.0,4073.218357768146,,464.0,2719.1993124124383,0.6,,,,,,,,,,,*c1csc(N)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(N)c3C#N)c(=O)oc2c1,C1CCOC1,CT-1,THF,403.0,4554.730686451003,,458.0,2745.521519826125,0.62,,,,,,,,,,,*c1csc(N)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(N)c3C#N)c(=O)oc2c1,Cc1ccccc1,CT-1,Toluene,403.0,4100.812549778722,,447.0,2707.070793512248,0.74,,,,,,,,,,,*c1csc(N)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(NC(C)=O)c3C#N)c(=O)oc2c1,CS(C)=O,CT-2,dimethyl sulfoxide,394.0,,,479.0,2506.137341657981,0.07,,,,,,,,,,,*c1csc(NC(C)=O)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(NC(C)=O)c3C#N)c(=O)oc2c1,CO,CT-2,methanol,404.0,4163.464307209262,,477.0,2476.08806888232,,,,,,,,,,,,*c1csc(NC(C)=O)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(NC(C)=O)c3C#N)c(=O)oc2c1,ClCCl,CT-2,dichloromethane,408.0,4525.433538596557,,463.0,2516.3922824278525,0.33,,,,,,,,,,,*c1csc(NC(C)=O)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(NC(C)=O)c3C#N)c(=O)oc2c1,C1CCOC1,CT-2,THF,399.0,4238.425046713724,,457.0,2647.668776283357,0.34,,,,,,,,,,,*c1csc(NC(C)=O)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3csc(NC(C)=O)c3C#N)c(=O)oc2c1,Cc1ccccc1,CT-2,Toluene,402.0,4012.64837809846,,448.0,2614.714365696931,,,,,,,,,,,,*c1csc(NC(C)=O)c1C#N,,,,,*N(CC)CC,,"[1, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,Coumarin 500,hexane,360.0,,,417.0,,0.76,3.3,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C500,hexane,366.0,,,414.0,,0.76,3.7,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,Coumarin 500,hexane,360.0,,,417.0,,0.76,3.3,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCC,C500,hexane,366.0,,,414.0,,0.76,3.7,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCC(C)C,Coumarin 500,2-methylpentane,360.0,,,415.0,,0.77,3.38,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCC(C)CC,Coumarin 500,3-Methylpentane,361.0,,,415.0,,0.75,3.39,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 500,Cyclohexane,364.0,,,417.0,,0.74,3.56,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 500,Cyclohexane,388.4,4130.765075476968,,480.0,3085.262673025176,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 500,Cyclohexane,364.0,,,417.0,,0.74,3.56,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCCCC1,Coumarin 500,Cyclohexane,388.4,4130.765075476968,,480.0,3085.262673025176,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC1CCCCC1,Coumarin 500,Toluene,364.0,,,417.0,,0.77,3.55,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,C1CCC2CCCCC2C1,Coumarin 500,decalin,365.0,,,420.0,,0.72,3.67,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCOC(C)=O,Coumarin 500,Ethyl acetate,382.0,,,478.0,,0.61,4.83,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCCCO,Coumarin 500,n-hexanol,392.0,,,490.0,,0.54,5.23,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 500,n-butanol,391.0,,,493.0,,0.53,5.24,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 500,n-butanol,395.0,4469.971477110525,,490.0,2810.9839018695566,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C500,1-BuOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 500,n-butanol,391.0,,,493.0,,0.53,5.24,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 500,n-butanol,395.0,4469.971477110525,,490.0,2810.9839018695566,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C500,1-BuOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 500,n-butanol,391.0,,,493.0,,0.53,5.24,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,Coumarin 500,n-butanol,395.0,4469.971477110525,,490.0,2810.9839018695566,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCCCO,C500,1-BuOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,Coumarin 500,i-propanol,392.0,,,490.0,,0.54,5.14,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,C500,2-PrOH,395.0,,,489.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,Coumarin 500,i-propanol,392.0,,,490.0,,0.54,5.14,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)O,C500,2-PrOH,395.0,,,489.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)=O,Coumarin 500,acetone,388.0,,,485.0,,0.53,5.08,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)=O,Coumarin 500,acetone,383.3,4210.337638945635,,480.0,3130.5361768833645,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)=O,Coumarin 500,acetone,388.0,,,485.0,,0.53,5.08,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC(C)=O,Coumarin 500,acetone,383.3,4210.337638945635,,480.0,3130.5361768833645,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,,,500.0,,0.47,5.04,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,4375.293533969598,,494.0,2822.739365568097,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,19,ethanol,395.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C500,EtOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,,,500.0,,0.47,5.04,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,4375.293533969598,,494.0,2822.739365568097,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,19,ethanol,395.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C500,EtOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,,,500.0,,0.47,5.04,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,4375.293533969598,,494.0,2822.739365568097,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,19,ethanol,395.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C500,EtOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,,,500.0,,0.47,5.04,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,Coumarin 500,Ethanol,394.0,4375.293533969598,,494.0,2822.739365568097,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,19,ethanol,395.0,,,,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CCO,C500,EtOH,393.0,,,496.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 500,acetonitrile,385.0,,,485.0,,0.56,5.23,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C500,MeCN,383.0,,,484.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,Coumarin 500,acetonitrile,385.0,,,485.0,,0.56,5.23,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CC#N,C500,MeCN,383.0,,,484.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 500,methanol,392.0,,,500.0,,0.46,4.84,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 500,methanol,390.0,4246.405433552558,,499.0,3049.662760030988,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C500,MeOH,391.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 500,methanol,392.0,,,500.0,,0.46,4.84,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 500,methanol,390.0,4246.405433552558,,499.0,3049.662760030988,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C500,MeOH,391.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 500,methanol,392.0,,,500.0,,0.46,4.84,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,Coumarin 500,methanol,390.0,4246.405433552558,,499.0,3049.662760030988,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+CCNc1ccc2c(C(F)(F)F)cc(=O)oc2c1,CO,C500,MeOH,391.0,,,502.0,,,,,,,,,,,,,,*C(F)(F)F,,,,*NCC,,"[2, 5]",2
+O=C(NCc1cc(=O)oc2cc(O)c(Br)cc12)c1cccnc1,CO,BHC-nicotinamide,methanol,372.0,4948.58824249329,3.941710148941646,,,,,,,,,,,,,,,*CNC(=O)c1cccnc1,,,*Br,*O,,"[2, 4, 5]",3
+O=C(NCc1cc(=O)oc2cc(O)c(Br)cc12)c1cccnc1,CC#N,BHC-nicotinamide,acetonitrile,392.0,5382.428818517892,4.041392685158225,,,,,,,,,,,,,,,*CNC(=O)c1cccnc1,,,*Br,*O,,"[2, 4, 5]",3
+O=C(NCc1cc(=O)oc2cc(O)c(Br)cc12)c1cccnc1,CS(C)=O,BHC-nicotinamide,dimethyl sulfoxide,408.0,2970.325565330044,4.289834121485031,,,,,,,,,,,,,,,*CNC(=O)c1cccnc1,,,*Br,*O,,"[2, 4, 5]",3
+O=C(NCc1cc(=O)oc2cc(O)c(Br)cc12)c1cccnc1,O,BHC-nicotinamide,water,330.0,,3.942702368888668,,,,,,,,,,,,,,,*CNC(=O)c1cccnc1,,,*Br,*O,,"[2, 4, 5]",3
+O=C(NCc1cc(=O)oc2cc([O-])c(Br)cc12)c1cccnc1,O,BHC-nicotinamide anion,water,370.0,4285.552630688908,4.134878045195129,,,,,,,,,,,,,,,*CNC(=O)c1cccnc1,,,*Br,*[O-],,"[2, 4, 5]",3
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,Cc1ccccc1,2H-pyran-3-carbonitrile dyes 3a,Toluene,509.0,2527.6623935666103,4.680108786976679,533.0,2035.0686080256928,0.72,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,ClC(Cl)Cl,2H-pyran-3-carbonitrile dyes 3a,chloroform,517.0,2327.9013353376868,4.950199284563899,547.0,1695.0538687972912,0.66,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,CCOC(C)=O,2H-pyran-3-carbonitrile dyes 3a,Ethyl acetate,509.0,2732.685221385924,4.711098286902344,554.0,1821.1011312454607,0.8,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,ClCCl,2H-pyran-3-carbonitrile dyes 3a,dichloromethane,520.0,2350.109186574846,4.950199284563899,560.0,1703.9889604253658,0.81,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,CC(C)=O,2H-pyran-3-carbonitrile dyes 3a,acetone,514.0,2550.813048352284,4.888364858208229,573.0,1818.333144566997,0.67,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,C1CCOC1,2H-pyran-3-carbonitrile dyes 3a,THF,512.0,2497.611149918048,4.905795880367869,558.0,2110.7240036610165,0.72,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,CO,2H-pyran-3-carbonitrile dyes 3a,methanol,514.0,2948.721338703516,4.376576957056512,582.0,1842.931529141886,0.55,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,CC#N,2H-pyran-3-carbonitrile dyes 3a,acetonitrile,514.0,2746.7533613867818,4.788281527598792,578.0,1640.052819906723,0.56,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,CN(C)C=O,2H-pyran-3-carbonitrile dyes 3a,DMF,521.0,2722.169896020114,4.825529972489883,585.0,1800.1272165631417,0.4,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cc(SC)c(C#N)c(=O)o3)c(=O)oc2c1,CS(C)=O,2H-pyran-3-carbonitrile dyes 3a,dimethyl sulfoxide,527.0,2622.934978873433,4.656816638044169,593.0,1821.582687806644,0.55,,,,,,,,,,,*c1cc(SC)c(C#N)c(=O)o1,,,,,*N(CC)CC,,"[1, 5]",2
+COc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCCCCC,CM1,hexane,338.0,4741.020984365812,,414.0,4575.79377398637,0.285,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,C1CCOC1,CM1,THF,342.0,4919.857652006132,,424.0,4360.692144929319,0.4579999999999999,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCO,CM1,Ethanol,342.0,4861.899523809487,,429.0,4237.806784882519,0.412,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CS(C)=O,CM1,dimethyl sulfoxide,345.0,4720.151709428119,,431.0,4135.785472503798,0.3939999999999999,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OC,,"[1, 5]",2
+COc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,COc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CM1,4852,,,,450.0,2858.842897825896,0.8959999999999999,3.76,,,,,,,,,,*c1ccc(C)cc1,,,,,*OC,,"[1, 5]",2
+CCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCCCCC,CM2,hexane,338.0,4699.632383991466,,416.0,4531.514982241872,0.389,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCC,,"[1, 5]",2
+CCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,C1CCOC1,CM2,THF,342.0,4817.838642001057,,425.0,4275.779952504472,0.732,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCC,,"[1, 5]",2
+CCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCO,CM2,Ethanol,344.0,4705.158802480957,,431.0,4198.249452926404,0.715,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCC,,"[1, 5]",2
+CCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CS(C)=O,CM2,dimethyl sulfoxide,345.0,4705.757765544207,,433.0,4076.791263460236,0.6809999999999999,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCC,,"[1, 5]",2
+CCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CM2,4853,,,,450.0,2779.3778554561904,0.967,4.39,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCC,,"[1, 5]",2
+CCCCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCCCCC,CM3,hexane,338.0,4736.649565206339,,416.0,4531.514982241872,0.564,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCCCC,,"[1, 5]",2
+CCCCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,C1CCOC1,CM3,THF,343.0,4655.524168212469,,423.0,4316.643487035333,0.611,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCCCC,,"[1, 5]",2
+CCCCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCO,CM3,Ethanol,344.0,4599.999852425528,,429.0,4237.75110590578,0.597,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCCCC,,"[1, 5]",2
+CCCCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CS(C)=O,CM3,dimethyl sulfoxide,346.0,4658.23598585105,,431.0,4135.785472503798,0.585,,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCCCC,,"[1, 5]",2
+CCCCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CCCCOc1ccc2cc(-c3ccc(C)cc3)c(=O)oc2c1,CM3,4854,,,,450.0,2918.502078292877,0.7070000000000001,3.79,,,,,,,,,,*c1ccc(C)cc1,,,,,*OCCCC,,"[1, 5]",2
+N#Cc1cc2ccccc2oc1=O,CS(C)=O,coumarins and iminocoumarins 4a,dimethyl sulfoxide,334.0,,4.238221793677805,405.0,4158.447481691601,0.0022,,,,,,,,,,,*C#N,,,,,,,[1],1
+N#Cc1cc2ccccc2oc1=O,CC#N,coumarins and iminocoumarins 4a,acetonitrile,336.0,,3.965953889102063,407.0,,0.00182,,,,,,,,,,,*C#N,,,,,,,[1],1
+N#Cc1cc2ccccc2oc1=O,C1CCOC1,coumarins and iminocoumarins 4a,THF,338.0,,3.923606643017459,409.0,4346.063188972312,0.0206,,,,,,,,,,,*C#N,,,,,,,[1],1
+N#Cc1cc2ccccc2oc1=O,CCOC(C)=O,coumarins and iminocoumarins 4a,Ethyl acetate,339.0,,3.872447647789013,410.0,5166.937106298654,0.0960999999999999,,,,,,,,,,,*C#N,,,,,,,[1],1
+N#Cc1cc2ccccc2oc1=O,ClC(Cl)Cl,coumarins and iminocoumarins 4a,chloroform,340.0,,3.871572935545879,411.0,,0.0058,,,,,,,,,,,*C#N,,,,,,,[1],1
+N#Cc1cc2ccccc2oc1=O,C1CCCCC1,coumarins and iminocoumarins 4a,Cyclohexane,342.0,,3.808413551400368,412.0,4216.1647035743445,0.0207,,,,,,,,,,,*C#N,,,,,,,[1],1
+O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,CCO,Bromadiolone(3-[3-(4â€²-bromobiphenyl-4-yl)-3-hydroxy1-phenylpropyl]-4-hydroxycoumarin)Â ,Ethanol,312.157,,,392.0,5042.591393758059,0.058,,,,,,,,,,,*C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,*O,,,,,,"[1, 2]",2
+O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,CO,Bromadiolone(3-[3-(4â€²-bromobiphenyl-4-yl)-3-hydroxy1-phenylpropyl]-4-hydroxycoumarin)Â ,methanol,311.643,,,394.0,4949.026619733642,0.034,,,,,,,,,,,*C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,*O,,,,,,"[1, 2]",2
+O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,O,Bromadiolone(3-[3-(4â€²-bromobiphenyl-4-yl)-3-hydroxy1-phenylpropyl]-4-hydroxycoumarin)Â ,water,311.643,,,397.0,5205.394251453701,0.017,,,,,,,,,,,*C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,*O,,,,,,"[1, 2]",2
+O=c1oc2ccccc2c(O)c1C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,CC#N,Bromadiolone(3-[3-(4â€²-bromobiphenyl-4-yl)-3-hydroxy1-phenylpropyl]-4-hydroxycoumarin)Â ,acetonitrile,314.212,,,403.0,4929.256892525689,0.06,,,,,,,,,,,*C(CC(O)c1ccc(-c2ccc(Br)cc2)cc1)c1ccccc1,*O,,,,,,"[1, 2]",2
+CCN(CC)c1ccc2cc(-c3nc4ccccc4n3-c3ccccc3)c(=O)oc2c1,ClCCl,BI-C,dichloromethane,410.0,4027.0799713824927,5.556302500767287,479.0,2586.0486746996394,0.94,13.2,,,,,,,,,,*c1nc2ccccc2n1-c1ccccc1,,,,,*N(CC)CC,,"[1, 5]",2
+COc1c(C(C)=O)c(=O)oc2cc(N(C)C)ccc12,ClCCl,3,dichloromethane,373.0,,,419.0,,0.0018,,,,,,,,,,,*C(C)=O,*OC,,,,*N(C)C,,"[1, 2, 5]",3
+COc1ccc(-c2cc3oc(=O)cc(C)c3cc2-c2ccc(OC)c(OC)c2)cc1OC,C1CCOC1,11e,THF,346.0,,,457.0,,,,,,,,,,,,,,*C,,,*c1ccc(OC)c(OC)c1,*c1ccc(OC)c(OC)c1,,"[2, 4, 5]",3
+O=c1oc2ccccc2cc1C#Cc1ccccc1,CC#N,Donor-Substituted Phenylethynylcoumarins1,acetonitrile,342.0,6624.6526710701255,4.372912002970106,406.0,3943.11747367874,0.88,,,,,,,,,,,*C#Cc1ccccc1,,,,,,,[1],1
+COc1ccc(C#Cc2cc3ccccc3oc2=O)cc1,CC#N,Donor-Substituted Phenylethynylcoumarins3,acetonitrile,353.0,4824.939645819675,4.382017042574868,456.0,4192.830612490303,0.55,,,,,,,,,,,*C#Cc1ccc(OC)cc1,,,,,,,[1],1
+CC(C)Oc1ccc(C#Cc2cc3ccccc3oc2=O)cc1,CC#N,Donor-Substituted Phenylethynylcoumarins4,acetonitrile,356.0,5309.4390232729165,4.457881896733992,464.0,4262.547301686045,0.43,,,,,,,,,,,*C#Cc1ccc(OC(C)C)cc1,,,,,,,[1],1
+CN(C)c1ccc(C#Cc2cc3ccccc3oc2=O)cc1,ClCCl,Donor-Substituted Phenylethynylcoumarins5,dichloromethane,406.0,4393.1259458595705,4.38738982633873,550.0,3118.163571891557,0.009,,,,,,,,,,,*C#Cc1ccc(N(C)C)cc1,,,,,,,[1],1
+O=c1ccc2ccc(C#Cc3ccccc3)cc2o1,CC#N,Donor-Substituted Phenylethynylcoumarins6,acetonitrile,300.0,9247.558250300715,4.513217600067939,364.0,4459.057168164523,0.011,,,,,,,,,,,,,,,,*C#Cc1ccccc1,,[5],1
+COc1ccc(C#Cc2ccc3ccc(=O)oc3c2)cc1,CC#N,Donor-Substituted Phenylethynylcoumarins8,acetonitrile,308.0,9419.62134909616,4.4996870826184034,465.0,4702.325289142507,0.029,,,,,,,,,,,,,,,,*C#Cc1ccc(OC)cc1,,[5],1
+CC(C)Oc1ccc(C#Cc2ccc3ccc(=O)oc3c2)cc1,CC#N,Donor-Substituted Phenylethynylcoumarins9,acetonitrile,310.0,8934.455025287029,4.413299764081252,470.0,4623.609141437919,0.034,,,,,,,,,,,,,,,,*C#Cc1ccc(OC(C)C)cc1,,[5],1
+CN(C)c1ccc(C#Cc2ccc3ccc(=O)oc3c2)cc1,CC#N,Donor-Substituted Phenylethynylcoumarins10,acetonitrile,333.0,,4.559906625036112,438.0,6332.143663507926,0.009,,,,,,,,,,,,,,,,*C#Cc1ccc(N(C)C)cc1,,[5],1
+C=Cc1cc2ccccc2oc1=O,CC#N,2a,acetonitrile,326.0,8145.88018132385,4.371714202642618,413.0,4504.351215924184,0.08,0.39,,,,,,,,,,*C=C,,,,,,,[1],1
+C=Cc1cc2ccc(OC)cc2oc1=O,CC#N,2b,acetonitrile,333.0,5141.126276535215,4.441019215250851,425.0,5604.827584788367,0.99,2.84,,,,,,,,,,*C=C,,,,,*OC,,"[1, 5]",2
+C=Cc1cc2ccc(N(CC)CC)cc2oc1=O,CC#N,2c,acetonitrile,400.0,4017.291631453303,4.521295029251213,470.0,3904.09545266633,0.98,2.84,,,,,,,,,,*C=C,,,,,*N(CC)CC,,"[1, 5]",2
+C=Cc1cc2ccc(OC(=O)c3ccccc3)cc2oc1=O,CC#N,2d,acetonitrile,328.0,7773.869590253882,4.398703695113079,420.0,4959.188839820428,0.23,3.28,,,,,,,,,,*C=C,,,,,*OC(=O)c1ccccc1,,"[1, 5]",2
+C=CC(=O)Oc1ccc2cc(C=C)c(=O)oc2c1,CC#N,2e,acetonitrile,320.0,8163.433451569275,4.364419655350235,430.0,4655.53671408059,0.19,2.81,,,,,,,,,,*C=C,,,,,*OC(=O)C=C,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,Cc1ccccc1,3-NP1,Toluene,407.0,3479.764267818573,4.72,469.0,2969.1799543372726,0.83,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,ClCCl,3-NP1,dichloromethane,429.0,3552.22531120282,4.72,478.0,2856.1272871569818,0.86,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,ClC(Cl)Cl,3-NP1,chloroform,425.0,3543.204852886658,4.66,471.0,2787.166211216714,0.93,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CCOC(C)=O,3-NP1,Ethyl acetate,407.0,3669.903272474276,4.71,468.0,2919.258204652917,0.7,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,C1CCOC1,3-NP1,THF,408.0,3619.018644437896,4.71,473.0,2825.89,0.65,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CC#N,3-NP1,acetonitrile,421.0,3718.76394146738,4.69,475.0,2694.1467187883027,0.82,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CN(C)C=O,3-NP1,DMF,425.0,3863.5840833765833,4.72,477.0,2583.8184828129706,0.67,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CS(C)=O,3-NP1,dimethyl sulfoxide,428.0,3475.939100565341,4.71,482.0,2433.009442053619,0.61,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CCO,3-NP1,Ethanol,424.0,3701.7647519519705,4.65,482.0,2659.0378535510245,0.75,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CO,3-NP1,methanol,423.0,3702.284888118669,4.69,485.0,2595.018088905937,0.71,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,CCN(CC)c1ccc2cc(-c3cn4ccccc4n3)c(=O)oc2c1,3-NP1,1011,479.0,,,593.0,6018.182795711762,0.05,,,,,,,,,,,*c1cn2ccccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+O=c1oc2ccccc2cc1-c1cn2ccccc2n1,ClC(Cl)Cl,3-HP,chloroform,349.0,6848.3098594634175,4.18,456.0,4475.17821903748,0.15,,,,,,,,,,,*c1cn2ccccc2n1,,,,,,,[1],1
+O=c1oc2ccccc2cc1-c1cn2ccccc2n1,O=c1oc2ccccc2cc1-c1cn2ccccc2n1,3-HP,1012,412.0,,,520.0,5241.614764039055,0.02,,,,,,,,,,,*c1cn2ccccc2n1,,,,,,,[1],1
+CCN(CC)c1ccc2cc(-c3cn4cc(C)ccc4n3)c(=O)oc2c1,ClC(Cl)Cl,3-NP2,chloroform,424.0,3514.619175199219,4.58,473.0,2916.365703900523,0.94,,,,,,,,,,,*c1cn2cc(C)ccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4cc(C)ccc4n3)c(=O)oc2c1,CCN(CC)c1ccc2cc(-c3cn4cc(C)ccc4n3)c(=O)oc2c1,3-NP2,1013,430.0,,,557.0,3735.298334715528,0.14,,,,,,,,,,,*c1cn2cc(C)ccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4cc(OC)ccc4n3)c(=O)oc2c1,ClC(Cl)Cl,3-NP3,chloroform,434.0,3510.113450912806,4.62,478.0,3014.698661734543,0.9,,,,,,,,,,,*c1cn2cc(OC)ccc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4c5ccccc5c5ccccc5c4n3-c3ccc(C(C)(C)C)cc3)c(=O)oc2c1,ClCCl,C-PI-Bu,DCM,412.0,,,492.0,,0.97,12.6,5.77,CV,,,2.7,,,,,*c1nc2c3ccccc3c3ccccc3c2n1-c1ccc(C(C)(C)C)cc1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4c5ccccc5c5ccccc5c4n3-c3ccc(C(C)(C)C)cc3)c(=O)oc2c1,ClCCl,PI-C,dichloromethane,410.0,3496.858786641609,5.770852011642144,492.0,2699.135896638149,0.97,12.6,,,,,,,,,,*c1nc2c3ccccc3c3ccccc3c2n1-c1ccc(C(C)(C)C)cc1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4c5ccccc5c5ccccc5c4n3-c3ccc(C(C)(C)C)cc3)c(=O)oc2c1,ClCCl,C-PI-Bu,DCM,412.0,,,492.0,,0.97,12.6,5.77,CV,,,2.7,,,,,*c1nc2c3ccccc3c3ccccc3c2n1-c1ccc(C(C)(C)C)cc1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4c5ccccc5c5ccccc5c4n3-c3ccc(C(C)(C)C)cc3)c(=O)oc2c1,ClCCl,PI-C,dichloromethane,410.0,3496.858786641609,5.770852011642144,492.0,2699.135896638149,0.97,12.6,,,,,,,,,,*c1nc2c3ccccc3c3ccccc3c2n1-c1ccc(C(C)(C)C)cc1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3nc4c5cccc6ccc7cccc(c7c65)c4n3-c3ccc(C(C)(C)C)cc3)c(=O)oc2c1,ClCCl,PyI-C,dichloromethane,410.0,4789.490618303022,5.4623979978989565,519.0,2471.5313335199426,0.98,11.4,,,,,,,,,,*c1nc2c3cccc4ccc5cccc(c5c43)c2n1-c1ccc(C(C)(C)C)cc1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4cc5ccccc5cc4n3)c(=O)oc2c1,ClC(Cl)Cl,3-NQ,chloroform,434.0,2468.152936465758,4.84,460.0,2175.5785448282404,0.92,,,,,,,,,,,*c1cn2cc3ccccc3cc2n1,,,,,*N(CC)CC,,"[1, 5]",2
+CCN(CC)c1ccc2cc(-c3cn4cc5ccccc5cc4n3)c(=O)oc2c1,CCN(CC)c1ccc2cc(-c3cn4cc5ccccc5cc4n3)c(=O)oc2c1,3-NQ,1015,461.0,,,590.0,3862.692548625995,0.21,,,,,,,,,,,*c1cn2cc3ccccc3cc2n1,,,,,*N(CC)CC,,"[1, 5]",2
